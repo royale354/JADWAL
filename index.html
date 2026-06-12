@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jadwal Bola - Streaming Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Inter:wght@400;600;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', 'Segoe UI', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; color: #fff; padding: 20px; }
+    .container { max-width: 1400px; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 40px; padding-top: 20px; }
+    h1 { font-size: 48px; font-weight: 700; margin-bottom: 10px; text-shadow: 0 2px 10px rgba(0,0,0,0.3); }
+    .subtitle { font-size: 16px; opacity: 0.9; }
+    
+    .main-grid { display: grid; grid-template-columns: 280px 1fr; gap: 30px; margin-bottom: 40px; }
+    
+    .sidebar { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 25px; height: fit-content; }
+    .sidebar h3 { font-size: 14px; text-transform: uppercase; letter-spacing: 2px; opacity: 0.8; margin-bottom: 15px; }
+    .sidebar-group { margin-bottom: 25px; }
+    .sidebar-group label { display: block; font-size: 13px; margin-bottom: 8px; opacity: 0.9; }
+    .sidebar-group input, .sidebar-group select { width: 100%; padding: 10px 12px; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; background: rgba(255,255,255,0.05); color: #fff; font-size: 13px; }
+    .sidebar-group input::placeholder { color: rgba(255,255,255,0.5); }
+    .sidebar-group button { width: 100%; padding: 12px; margin-top: 8px; border: none; border-radius: 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; font-weight: 600; cursor: pointer; transition: all 0.3s; }
+    .sidebar-group button:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+    .sidebar-group button:disabled { opacity: 0.5; cursor: not-allowed; }
+    
+    .content { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; overflow: hidden; }
+    .content-header { background: rgba(0,0,0,0.2); padding: 20px 30px; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; justify-content: space-between; align-items: center; }
+    .content-header h2 { font-size: 20px; font-weight: 700; }
+    .status-badge { display: inline-block; padding: 6px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+    .status-badge.loading { background: rgba(255, 193, 7, 0.2); color: #ffc107; }
+    .status-badge.ok { background: rgba(76, 175, 80, 0.2); color: #4caf50; }
+    .status-badge.err { background: rgba(244, 67, 54, 0.2); color: #f44336; }
+    
+    .content-body { padding: 30px; min-height: 400px; }
+    .preview-area { display: grid; grid-template-columns: 1fr 280px; gap: 20px; }
+    
+    canvas { width: 100%; max-width: 100%; border-radius: 8px; background: #000; }
+    
+    .matches-list { background: rgba(0,0,0,0.2); border-radius: 8px; max-height: 600px; overflow-y: auto; padding: 15px; }
+    .match-item { padding: 12px; background: rgba(255,255,255,0.05); border-left: 3px solid #667eea; margin-bottom: 10px; border-radius: 6px; cursor: pointer; transition: all 0.2s; font-size: 12px; }
+    .match-item:hover { background: rgba(255,255,255,0.1); }
+    .match-time { font-weight: 700; color: #ffc107; }
+    .match-teams { margin: 5px 0; }
+    
+    .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
+    .tab-btn { padding: 10px 20px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.05); color: #fff; border-radius: 6px; cursor: pointer; font-size: 13px; transition: all 0.2s; }
+    .tab-btn.active { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-color: transparent; }
+    
+    .input-group { margin-bottom: 15px; }
+    .input-group label { display: block; font-size: 13px; margin-bottom: 6px; opacity: 0.9; }
+    .input-group input, .input-group select { width: 200px; padding: 10px 12px; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; background: rgba(255,255,255,0.05); color: #fff; }
+    
+    .btn-group { display: flex; gap: 10px; }
+    .btn { padding: 12px 24px; border: none; border-radius: 8px; font-weight: 600; cursor: pointer; transition: all 0.3s; font-size: 13px; }
+    .btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+    .btn-secondary { background: rgba(255,255,255,0.1); color: #fff; border: 1px solid rgba(255,255,255,0.2); }
+    
+    @media (max-width: 1024px) {
+      .main-grid { grid-template-columns: 1fr; }
+      .preview-area { grid-template-columns: 1fr; }
+      h1 { font-size: 36px; }
+    }
+    
+    @media (max-width: 768px) {
+      .sidebar { padding: 15px; }
+      .content-body { padding: 15px; }
+      h1 { font-size: 28px; }
+      .matches-list { max-height: 300px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>⚽ Jadwal Bola</h1>
+      <p class="subtitle">Generator PNG & Video untuk TikTok • Buka di HP tanpa aplikasi</p>
+    </header>
+    
+    <div class="main-grid">
+      <!-- SIDEBAR -->
+      <div class="sidebar">
+        <h3>📋 Pengaturan</h3>
+        
+        <div class="sidebar-group">
+          <label>📅 Tanggal</label>
+          <input type="date" id="datePicker">
+        </div>
+        
+        <div class="sidebar-group">
+          <label>🎨 Tema</label>
+          <select id="themePicker">
+            <option value="purple">💜 Purple</option>
+            <option value="royal">👑 Royal Blue</option>
+            <option value="emerald">💚 Emerald</option>
+            <option value="crimson">❤️ Crimson</option>
+          </select>
+        </div>
+        
+        <div class="sidebar-group">
+          <label>✏️ Header (Opsional)</label>
+          <input type="text" id="headerInput" placeholder="HARI INI">
+        </div>
+        
+        <div class="sidebar-group">
+          <label>🔗 TikTok / Footer</label>
+          <input type="text" id="footerInput" placeholder="@username">
+        </div>
+        
+        <div class="sidebar-group">
+          <h3 style="margin-top: 0; margin-bottom: 10px;">📥 Import</h3>
+          <button onclick="document.getElementById('fileInput').click()">Pilih HTML File</button>
+          <input type="file" id="fileInput" accept=".html" style="display:none;" onchange="handleFileImport(event)">
+        </div>
+        
+        <div id="statusArea" style="padding: 12px; background: rgba(0,0,0,0.2); border-radius: 8px; font-size: 12px; line-height: 1.5;">
+          <span class="status-badge loading">Memuat...</span>
+        </div>
+      </div>
+      
+      <!-- CONTENT -->
+      <div class="content">
+        <div class="content-header">
+          <div>
+            <h2 id="dateDisplay">Jadwal Bola</h2>
+            <p style="font-size: 12px; opacity: 0.7; margin-top: 5px;" id="matchCount"></p>
+          </div>
+          <div class="status-badge ok" id="mainStatus">✓ Siap</div>
+        </div>
+        
+        <div class="content-body">
+          <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('png')">🖼️ PNG</button>
+            <button class="tab-btn" onclick="switchTab('video')">🎬 Video</button>
+          </div>
+          
+          <!-- TAB PNG -->
+          <div id="tabPNG" style="display:block;">
+            <div class="preview-area">
+              <div>
+                <canvas id="pngCanvas" style="width: 100%; max-width: 600px;"></canvas>
+                <div class="btn-group" style="margin-top: 15px;">
+                  <button class="btn btn-primary" onclick="downloadPNG()" id="btnDownloadPNG">⚡ Download PNG</button>
+                  <button class="btn btn-secondary" onclick="showPrevPage()" id="btnPrev">‹</button>
+                  <button class="btn btn-secondary" onclick="showNextPage()" id="btnNext">›</button>
+                </div>
+              </div>
+              <div class="matches-list" id="matchesList"></div>
+            </div>
+          </div>
+          
+          <!-- TAB VIDEO -->
+          <div id="tabVideo" style="display:none;">
+            <div class="input-group">
+              <label>⏱️ Durasi per Slide (detik)</label>
+              <input type="number" id="videoDuration" value="3" min="1" max="10">
+            </div>
+            <div class="input-group">
+              <label>🎞️ Animasi Masuk</label>
+              <select id="videoAnimation">
+                <option value="slideRight">Slide dari kanan</option>
+                <option value="fadeIn">Fade in</option>
+                <option value="zoomIn">Zoom in</option>
+              </select>
+            </div>
+            <div class="preview-area" style="grid-template-columns: 1fr;">
+              <div>
+                <canvas id="videoCanvas" style="width: 100%; max-width: 600px;"></canvas>
+                <div style="margin-top: 15px; display: flex; gap: 10px;">
+                  <button class="btn btn-primary" onclick="startVideoPreview()" id="btnPreview">▶ Preview Video</button>
+                  <button class="btn btn-primary" onclick="downloadVideo()" id="btnDownloadVideo">📥 Download WebM</button>
+                </div>
+                <p style="font-size: 12px; margin-top: 15px; opacity: 0.8;">💡 File WebM bisa langsung diupload ke TikTok atau convert ke MP4 pakai Handbrake gratis.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const THEMES = {
+      purple: { bg: '#2d1b69', accent: '#667eea', stripe: '#a78bfa', text: '#fff' },
+      royal: { bg: '#0d47a1', accent: '#42a5f5', stripe: '#64b5f6', text: '#fff' },
+      emerald: { bg: '#1b5e20', accent: '#4caf50', stripe: '#81c784', text: '#fff' },
+      crimson: { bg: '#6d1b27', accent: '#ef5350', stripe: '#ef9a9a', text: '#fff' },
+    };
+    
+    const LEAGUE_LOGOS = {
+      'Liga Inggris': '🏴', 'Liga Spanyol': '🇪🇸', 'Liga Italia': '🇮🇹', 'Liga Jerman': '🇩🇪',
+      'Liga Prancis': '🇫🇷', 'Liga Turki': '🇹🇷', 'Saudi Pro League': '🇸🇦', 'BRI Super League': '🇮🇩',
+      'Piala Champions': '🏆', 'Liga Champions': '🏆', 'Liga Europa': '🏅', 'Piala FA': '🎖️',
+      'Piala Afrika': '🌍', 'Piala Asia': '🌏', 'MLS': '🇺🇸', 'ASEAN Club Championship': '🏙️',
+    };
+    
+    let allSchedules = {}, allMatches = [], selectedDate = new Date().toISOString().split('T')[0];
+    let currentTheme = 'purple', previewPage = 0;
+    
+    const $ = (id) => document.getElementById(id);
+    const fmtDate = (iso) => new Date(iso + 'T00:00:00').toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    
+    function setStatus(msg, type = 'ok') {
+      const badge = $('mainStatus');
+      badge.textContent = msg;
+      badge.className = 'status-badge ' + type;
+      $('statusArea').innerHTML = `<span class="status-badge ${type}">${msg}</span>`;
+    }
+    
+    function switchTab(tab) {
+      document.querySelectorAll('[id^="tab"]').forEach(e => e.style.display = 'none');
+      $('tab' + (tab === 'png' ? 'PNG' : 'Video')).style.display = 'block';
+      document.querySelectorAll('.tab-btn').forEach((e, i) => e.classList.toggle('active', (i === 0) === (tab === 'png')));
+    }
+    
+    async function loadSchedule() {
+      setStatus('Memuat jadwal...', 'loading');
+      try {
+        const resp = await fetch('data/jadwal.json');
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+        allSchedules = data.schedules || {};
+        await applyDate(selectedDate);
+      } catch (e) {
+        setStatus(`Error: ${e.message}`, 'err');
+      }
+    }
+    
+    function getMatchesForDate(iso) {
+      const m = allSchedules[iso];
+      return Array.isArray(m) ? m : (m && typeof m === 'object' ? [m] : []);
+    }
+    
+    async function applyDate(iso) {
+      selectedDate = iso;
+      $('datePicker').value = iso;
+      $('dateDisplay').textContent = fmtDate(iso);
+      allMatches = getMatchesForDate(iso);
+      const n = allMatches.length;
+      $('matchCount').textContent = n ? `${n} pertandingan` : 'Tidak ada jadwal';
+      $('btnDownloadPNG').disabled = !n;
+      $('btnPreview').disabled = !n;
+      $('btnDownloadVideo').disabled = !n;
+      previewPage = 0;
+      renderMatchList();
+      await renderPNG();
+    }
+    
+    function renderMatchList() {
+      const html = allMatches.map((m, i) => `
+        <div class="match-item" onclick="previewPage=${Math.floor(i/5)}; renderPNG()">
+          <div class="match-time">${m.kickoff}</div>
+          <div class="match-teams">${m.home} vs ${m.away}</div>
+          <div style="font-size: 11px; opacity: 0.8;">${m.competition}</div>
+        </div>
+      `).join('');
+      $('matchesList').innerHTML = html || '<p style="opacity: 0.5;">Tidak ada pertandingan</p>';
+    }
+    
+    async function renderPNG() {
+      if (!allMatches.length) return;
+      
+      const c = $('pngCanvas'), ctx = c.getContext('2d');
+      const W = 800, H = 200 + (allMatches.length * 80);
+      c.width = W; c.height = H;
+      
+      const theme = THEMES[currentTheme];
+      const grd = ctx.createLinearGradient(0, 0, 0, H);
+      grd.addColorStop(0, theme.bg);
+      grd.addColorStop(1, '#1a0f3d');
+      ctx.fillStyle = grd;
+      ctx.fillRect(0, 0, W, H);
+      
+      ctx.fillStyle = '#fff';
+      ctx.font = 'bold 48px Oswald';
+      ctx.textAlign = 'center';
+      const header = $('headerInput').value || 'JADWAL BOLA';
+      ctx.fillText(header, W/2, 60);
+      
+      ctx.font = 'bold 28px Inter';
+      ctx.fillStyle = theme.accent;
+      ctx.fillText(fmtDate(selectedDate), W/2, 110);
+      
+      ctx.fillStyle = 'rgba(255,255,255,0.5)';
+      ctx.font = '14px Inter';
+      ctx.fillText('Waktu dalam WIB', W/2, 140);
+      
+      let y = 170;
+      allMatches.forEach((m, i) => {
+        const rowH = 75;
+        const leagueEmoji = LEAGUE_LOGOS[m.competition] || '⚽';
+        
+        ctx.fillStyle = theme.stripe;
+        ctx.fillRect(0, y, 8, rowH);
+        
+        ctx.fillStyle = theme.accent;
+        ctx.fillRect(15, y + 10, 90, 55);
+        ctx.fillStyle = '#fff';
+        ctx.font = 'bold 32px Inter';
+        ctx.textAlign = 'center';
+        ctx.fillText(m.kickoff, 60, y + 45);
+        
+        ctx.font = '48px Arial';
+        ctx.textAlign = 'center';
+        ctx.fillText(leagueEmoji, W/2, y + 50);
+        
+        ctx.font = '11px Inter';
+        ctx.fillStyle = 'rgba(255,255,255,0.7)';
+        ctx.textAlign = 'center';
+        ctx.fillText(m.competition.substring(0, 15), W/2, y + 70);
+        
+        ctx.font = 'bold 18px Bebas Neue';
+        ctx.fillStyle = '#fff';
+        ctx.textAlign = 'right';
+        ctx.fillText(m.home, W/2 - 50, y + 45);
+        
+        ctx.textAlign = 'left';
+        ctx.fillText(m.away, W/2 + 50, y + 45);
+        
+        ctx.fillStyle = 'rgba(255,255,255,0.1)';
+        ctx.fillRect(W - 110, y + 10, 100, 55);
+        
+        const tvText = m.tvFree?.[0] || m.tvPaid?.[0] || m.tv || 'N/A';
+        ctx.fillStyle = m.tvFree?.length ? '#4caf50' : '#ffc107';
+        ctx.font = 'bold 12px Inter';
+        ctx.textAlign = 'center';
+        ctx.fillText(tvText.substring(0, 12), W - 60, y + 42);
+        
+        y += rowH;
+      });
+      
+      ctx.fillStyle = 'rgba(255,255,255,0.3)';
+      ctx.font = 'bold 14px Inter';
+      ctx.textAlign = 'right';
+      const footer = $('footerInput').value;
+      if (footer) ctx.fillText(footer, W - 20, H - 20);
+    }
+    
+    function downloadPNG() {
+      const c = $('pngCanvas');
+      const link = document.createElement('a');
+      link.download = `jadwal-${currentTheme}-${selectedDate}.png`;
+      link.href = c.toDataURL('image/png');
+      link.click();
+    }
+    
+    async function startVideoPreview() {
+      if (!allMatches.length) return;
+      setStatus('Preview video...', 'loading');
+      await renderVideoFrame($('videoCanvas'), true);
+      setStatus('✓ Preview siap', 'ok');
+    }
+    
+    async function renderVideoFrame(canvas, preview = false) {
+      const ctx = canvas.getContext('2d');
+      const W = 800, H = 1200;
+      canvas.width = W;
+      canvas.height = H;
+      
+      const theme = THEMES[currentTheme];
+      const grd = ctx.createLinearGradient(0, 0, 0, H);
+      grd.addColorStop(0, theme.bg);
+      grd.addColorStop(1, '#1a0f3d');
+      ctx.fillStyle = grd;
+      ctx.fillRect(0, 0, W, H);
+      
+      ctx.fillStyle = '#fff';
+      ctx.font = 'bold 52px Oswald';
+      ctx.textAlign = 'center';
+      ctx.fillText('JADWAL BOLA', W/2, 80);
+      
+      ctx.font = '16px Inter';
+      ctx.fillStyle = theme.accent;
+      ctx.fillText(fmtDate(selectedDate), W/2, 120);
+      
+      let y = 160;
+      allMatches.forEach((m, i) => {
+        const rowH = 120;
+        
+        ctx.fillStyle = theme.stripe;
+        ctx.fillRect(0, y, 8, rowH);
+        
+        ctx.fillStyle = theme.accent;
+        ctx.fillRect(15, y + 15, 100, 90);
+        ctx.fillStyle = '#fff';
+        ctx.font = 'bold 40px Inter';
+        ctx.textAlign = 'center';
+        ctx.fillText(m.kickoff, 65, y + 70);
+        
+        ctx.font = '56px Arial';
+        ctx.fillText(LEAGUE_LOGOS[m.competition] || '⚽', W/2, y + 75);
+        
+        ctx.font = 'bold 22px Bebas Neue';
+        ctx.fillStyle = '#fff';
+        ctx.textAlign = 'right';
+        ctx.fillText(m.home, W/2 - 60, y + 65);
+        
+        ctx.textAlign = 'left';
+        ctx.fillText(m.away, W/2 + 60, y + 65);
+        
+        const tvText = m.tvFree?.[0] || m.tvPaid?.[0] || m.tv || 'N/A';
+        ctx.fillStyle = m.tvFree?.length ? '#4caf50' : '#ffc107';
+        ctx.font = 'bold 14px Inter';
+        ctx.textAlign = 'center';
+        ctx.fillText(tvText.substring(0, 12), W - 60, y + 65);
+        
+        y += rowH;
+      });
+    }
+    
+    async function downloadVideo() {
+      if (!allMatches.length) return;
+      setStatus('Render video...', 'loading');
+      
+      const canvas = document.createElement('canvas');
+      canvas.width = 800;
+      canvas.height = 1200;
+      
+      const mediaRecorder = new MediaRecorder(canvas.captureStream(30), {
+        mimeType: 'video/webm',
+        videoBitsPerSecond: 2500000
+      });
+      
+      const chunks = [];
+      mediaRecorder.ondataavailable = (e) => chunks.push(e.data);
+      mediaRecorder.onstop = () => {
+        const blob = new Blob(chunks, { type: 'video/webm' });
+        const link = document.createElement('a');
+        link.download = `jadwal-buildup-${currentTheme}-${selectedDate}.webm`;
+        link.href = URL.createObjectURL(blob);
+        link.click();
+        setStatus('✓ Video siap download', 'ok');
+      };
+      
+      mediaRecorder.start();
+      
+      const theme = THEMES[currentTheme];
+      const durMS = (parseInt($('videoDuration').value) || 3) * 1000;
+      const fps = 30;
+      const frameDuration = 1000 / fps;
+      const totalFrames = Math.ceil((allMatches.length * durMS) / frameDuration);
+      
+      const ctx = canvas.getContext('2d');
+      let frameCount = 0;
+      
+      const renderFrame = async () => {
+        const grd = ctx.createLinearGradient(0, 0, 0, 1200);
+        grd.addColorStop(0, theme.bg);
+        grd.addColorStop(1, '#1a0f3d');
+        ctx.fillStyle = grd;
+        ctx.fillRect(0, 0, 800, 1200);
+        
+        ctx.fillStyle = '#fff';
+        ctx.font = 'bold 52px Oswald';
+        ctx.textAlign = 'center';
+        ctx.fillText('JADWAL BOLA', 400, 80);
+        
+        ctx.font = '16px Inter';
+        ctx.fillStyle = theme.accent;
+        ctx.fillText(fmtDate(selectedDate), 400, 120);
+        
+        const visibleMatches = Math.ceil(allMatches.length * (frameCount / totalFrames));
+        let y = 160;
+        
+        for (let i = 0; i < visibleMatches && i < allMatches.length; i++) {
+          const m = allMatches[i];
+          const rowH = 120;
+          
+          ctx.fillStyle = theme.stripe;
+          ctx.fillRect(0, y, 8, rowH);
+          
+          ctx.fillStyle = theme.accent;
+          ctx.fillRect(15, y + 15, 100, 90);
+          ctx.fillStyle = '#fff';
+          ctx.font = 'bold 40px Inter';
+          ctx.textAlign = 'center';
+          ctx.fillText(m.kickoff, 65, y + 70);
+          
+          ctx.font = '56px Arial';
+          ctx.fillText(LEAGUE_LOGOS[m.competition] || '⚽', 400, y + 75);
+          
+          ctx.font = 'bold 22px Bebas Neue';
+          ctx.fillStyle = '#fff';
+          ctx.textAlign = 'right';
+          ctx.fillText(m.home, 340, y + 65);
+          
+          ctx.textAlign = 'left';
+          ctx.fillText(m.away, 460, y + 65);
+          
+          const tvText = m.tvFree?.[0] || m.tvPaid?.[0] || m.tv || 'N/A';
+          ctx.fillStyle = m.tvFree?.length ? '#4caf50' : '#ffc107';
+          ctx.font = 'bold 14px Inter';
+          ctx.textAlign = 'center';
+          ctx.fillText(tvText.substring(0, 12), 740, y + 65);
+          
+          y += rowH;
+        }
+        
+        frameCount++;
+        if (frameCount < totalFrames) {
+          await new Promise(r => setTimeout(r, frameDuration));
+          await renderFrame();
+        } else {
+          mediaRecorder.stop();
+        }
+      };
+      
+      await renderFrame();
+    }
+    
+    function handleFileImport(evt) {
+      const file = evt.target.files?.[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        try {
+          const doc = new DOMParser().parseFromString(e.target.result, 'text/html');
+          const rows = doc.querySelectorAll('table tr');
+          if (!rows.length) throw new Error('Tabel tidak ditemukan');
+          
+          const schedules = {};
+          let count = 0;
+          rows.forEach(tr => {
+            const cells = [...tr.querySelectorAll('td')].map(td => td.textContent.trim());
+            if (cells.length < 4) return;
+            const date = selectedDate;
+            if (!schedules[date]) schedules[date] = [];
+            const [time, match, league, tv] = cells;
+            const [home, away] = match.split(/\s+vs\s+/i).map(s => s.trim());
+            schedules[date].push({ kickoff: time, matchup: match, home, away, competition: league, tv, tvFree: [], tvPaid: [] });
+            count++;
+          });
+          
+          allSchedules = schedules;
+          applyDate(selectedDate);
+          setStatus(`✓ Import ${count} pertandingan`, 'ok');
+        } catch (err) {
+          setStatus(`Error: ${err.message}`, 'err');
+        }
+      };
+      reader.readAsText(file);
+    }
+    
+    function showPrevPage() { if (previewPage > 0) previewPage--; renderPNG(); }
+    function showNextPage() { previewPage++; renderPNG(); }
+    
+    $('datePicker').addEventListener('change', (e) => applyDate(e.target.value));
+    $('themePicker').addEventListener('change', (e) => { currentTheme = e.target.value; renderPNG(); });
+    $('headerInput').addEventListener('input', renderPNG);
+    $('footerInput').addEventListener('input', renderPNG);
+    
+    $('datePicker').value = selectedDate;
+    $('datePicker').max = new Date().toISOString().split('T')[0];
+    loadSchedule();
+  </script>
+</body>
+</html>

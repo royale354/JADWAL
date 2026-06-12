@@ -1,0 +1,33 @@
+name: Update Jadwal Bola
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Jalan jam 2 pagi (UTC) setiap hari = 09:00 WIB
+  workflow_dispatch:     # Manual trigger dari GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: pip install beautifulsoup4
+
+      - name: Fetch Jadwal dari Goal.com
+        run: python scripts/update_jadwal.py
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update jadwal bola otomatis"
+          file_pattern: data/jadwal.json
