@@ -1,219 +1,7 @@
 {
-  "updated": "2026-06-25T05:55:05Z",
+  "updated": "2026-06-26T05:58:27Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-06-22": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Belgia vs Iran",
-        "home": "Belgia",
-        "away": "Iran",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "05:00",
-        "matchup": "Uruguay vs Tanjung Verde",
-        "home": "Uruguay",
-        "away": "Tanjung Verde",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "08:00",
-        "matchup": "Selandia Baru vs Mesir",
-        "home": "Selandia Baru",
-        "away": "Mesir",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-06-23": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Argentina vs Austria",
-        "home": "Argentina",
-        "away": "Austria",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "04:00",
-        "matchup": "Prancis vs Irak",
-        "home": "Prancis",
-        "away": "Irak",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "07:00",
-        "matchup": "Norwegia vs Senegal",
-        "home": "Norwegia",
-        "away": "Senegal",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "10:00",
-        "matchup": "Yordania vs Aljazair",
-        "home": "Yordania",
-        "away": "Aljazair",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-06-24": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Portugal vs Uzbekistan",
-        "home": "Portugal",
-        "away": "Uzbekistan",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Inggris vs Ghana",
-        "home": "Inggris",
-        "away": "Ghana",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "06:00",
-        "matchup": "Panama vs Kroasia",
-        "home": "Panama",
-        "away": "Kroasia",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "09:00",
-        "matchup": "Kolombia vs RD Kongo",
-        "home": "Kolombia",
-        "away": "RD Kongo",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-06-25": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Bosnia dan Herzegovina vs Qatar",
-        "home": "Bosnia dan Herzegovina",
-        "away": "Qatar",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI Sport",
-        "tvFree": [
-          "TVRI Sport"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Swiss vs Kanada",
-        "home": "Swiss",
-        "away": "Kanada",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "05:00",
-        "matchup": "Maroko vs Haiti",
-        "home": "Maroko",
-        "away": "Haiti",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "05:00",
-        "matchup": "Skotlandia vs Brasil",
-        "home": "Skotlandia",
-        "away": "Brasil",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI Sport",
-        "tvFree": [
-          "TVRI Sport"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "08:00",
-        "matchup": "Republik Ceko vs Meksiko",
-        "home": "Republik Ceko",
-        "away": "Meksiko",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "08:00",
-        "matchup": "Afrika Selatan vs Korea Selatan",
-        "home": "Afrika Selatan",
-        "away": "Korea Selatan",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI Sport",
-        "tvFree": [
-          "TVRI Sport"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-06-26": [
       {
         "kickoff": "03:00",
@@ -432,6 +220,20 @@
         "tv": "TVRI Sport",
         "tvFree": [
           "TVRI Sport"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-06-29": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Afrika Selatan vs Kanada",
+        "home": "Afrika Selatan",
+        "away": "Kanada",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
         ],
         "tvPaid": []
       }
