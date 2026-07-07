@@ -1,71 +1,7 @@
 {
-  "updated": "2026-07-06T06:14:28Z",
+  "updated": "2026-07-07T05:55:31Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-04": [
-      {
-        "kickoff": "01:00",
-        "matchup": "Australia vs Mesir",
-        "home": "Australia",
-        "away": "Mesir",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "05:00",
-        "matchup": "Argentina vs Tanjung Verde",
-        "home": "Argentina",
-        "away": "Tanjung Verde",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "08:30",
-        "matchup": "Kolombia vs Ghana",
-        "home": "Kolombia",
-        "away": "Ghana",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-07-05": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Kanada vs Maroko",
-        "home": "Kanada",
-        "away": "Maroko",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "04:00",
-        "matchup": "Paraguay vs Prancis",
-        "home": "Paraguay",
-        "away": "Prancis",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-07-06": [
       {
         "kickoff": "03:00",
@@ -136,6 +72,20 @@
         "matchup": "Swiss vs Kolombia",
         "home": "Swiss",
         "away": "Kolombia",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-07-10": [
+      {
+        "kickoff": "03:00",
+        "matchup": "Prancis vs Maroko",
+        "home": "Prancis",
+        "away": "Maroko",
         "competition": "Piala Dunia 2026",
         "tv": "TVRI",
         "tvFree": [
