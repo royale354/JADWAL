@@ -1,71 +1,7 @@
 {
-  "updated": "2026-07-07T05:55:31Z",
+  "updated": "2026-07-08T04:54:45Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-06": [
-      {
-        "kickoff": "03:00",
-        "matchup": "Brasil vs Norwegia",
-        "home": "Brasil",
-        "away": "Norwegia",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "07:00",
-        "matchup": "Meksiko vs Inggris",
-        "home": "Meksiko",
-        "away": "Inggris",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-07-07": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Portugal vs Spanyol",
-        "home": "Portugal",
-        "away": "Spanyol",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "07:00",
-        "matchup": "Amerika Serikat vs Belgia",
-        "home": "Amerika Serikat",
-        "away": "Belgia",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Argentina vs Mesir",
-        "home": "Argentina",
-        "away": "Mesir",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-07-08": [
       {
         "kickoff": "03:00",
@@ -86,6 +22,46 @@
         "matchup": "Prancis vs Maroko",
         "home": "Prancis",
         "away": "Maroko",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-07-11": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Spanyol vs Belgia",
+        "home": "Spanyol",
+        "away": "Belgia",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-07-12": [
+      {
+        "kickoff": "04:00",
+        "matchup": "Norwegia vs Inggris",
+        "home": "Norwegia",
+        "away": "Inggris",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "08:00",
+        "matchup": "Argentina vs Swiss",
+        "home": "Argentina",
+        "away": "Swiss",
         "competition": "Piala Dunia 2026",
         "tv": "TVRI",
         "tvFree": [
