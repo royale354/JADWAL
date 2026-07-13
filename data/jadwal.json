@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-12T05:12:05Z",
+  "updated": "2026-07-13T05:21:06Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-11": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Spanyol vs Belgia",
-        "home": "Spanyol",
-        "away": "Belgia",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-07-12": [
       {
         "kickoff": "04:00",
@@ -48,6 +34,20 @@
         "matchup": "Prancis vs Spanyol",
         "home": "Prancis",
         "away": "Spanyol",
+        "competition": "Piala Dunia 2026",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-07-16": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Inggris vs Argentina",
+        "home": "Inggris",
+        "away": "Argentina",
         "competition": "Piala Dunia 2026",
         "tv": "TVRI",
         "tvFree": [
