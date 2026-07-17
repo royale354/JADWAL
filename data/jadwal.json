@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-16T04:46:53Z",
+  "updated": "2026-07-17T04:49:42Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-12": [
+    "2026-07-18": [
+      {
+        "kickoff": "22:00",
+        "matchup": "Manchester United vs Wrexham",
+        "home": "Manchester United",
+        "away": "Wrexham",
+        "competition": "Uji coba",
+        "tv": "MUTV",
+        "tvFree": [
+          "MUTV"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-07-19": [
       {
         "kickoff": "04:00",
-        "matchup": "Norwegia vs Inggris",
-        "home": "Norwegia",
+        "matchup": "Prancis vs Inggris",
+        "home": "Prancis",
         "away": "Inggris",
         "competition": "Piala Dunia 2026",
         "tv": "TVRI",
@@ -14,39 +28,13 @@
           "TVRI"
         ],
         "tvPaid": []
-      },
-      {
-        "kickoff": "08:00",
-        "matchup": "Argentina vs Swiss",
-        "home": "Argentina",
-        "away": "Swiss",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
       }
     ],
-    "2026-07-15": [
+    "2026-07-20": [
       {
         "kickoff": "02:00",
-        "matchup": "Prancis vs Spanyol",
-        "home": "Prancis",
-        "away": "Spanyol",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-07-16": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Inggris vs Argentina",
-        "home": "Inggris",
+        "matchup": "Spanyol vs Argentina",
+        "home": "Spanyol",
         "away": "Argentina",
         "competition": "Piala Dunia 2026",
         "tv": "TVRI",
