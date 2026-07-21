@@ -1,47 +1,33 @@
 {
-  "updated": "2026-07-20T05:25:31Z",
+  "updated": "2026-07-21T04:54:48Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-18": [
+    "2026-07-21": [
       {
-        "kickoff": "22:00",
-        "matchup": "Manchester United vs Wrexham",
-        "home": "Manchester United",
-        "away": "Wrexham",
-        "competition": "Uji coba",
-        "tv": "MUTV",
-        "tvFree": [
-          "MUTV"
-        ],
-        "tvPaid": []
+        "kickoff": "23:00",
+        "matchup": "Ararat-Armenia vs Shamrock Rovers",
+        "home": "Ararat-Armenia",
+        "away": "Shamrock Rovers",
+        "competition": "Kualifikasi Liga Champions",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
       }
     ],
-    "2026-07-19": [
+    "2026-07-22": [
       {
-        "kickoff": "04:00",
-        "matchup": "Prancis vs Inggris",
-        "home": "Prancis",
-        "away": "Inggris",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-07-20": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Spanyol vs Argentina",
-        "home": "Spanyol",
-        "away": "Argentina",
-        "competition": "Piala Dunia 2026",
-        "tv": "TVRI",
-        "tvFree": [
-          "TVRI"
-        ],
-        "tvPaid": []
+        "kickoff": "01:30",
+        "matchup": "Sturm Graz vs Hearts",
+        "home": "Sturm Graz",
+        "away": "Hearts",
+        "competition": "Kualifikasi Liga Champions",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
       }
     ]
   }
