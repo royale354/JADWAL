@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T04:56:29Z",
+  "updated": "2026-07-25T04:52:00Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
     "2026-07-24": [
@@ -42,6 +42,20 @@
     ],
     "2026-07-25": [
       {
+        "kickoff": "15:30",
+        "matchup": "DPMM vs Tampines Rovers",
+        "home": "DPMM",
+        "away": "Tampines Rovers",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "17:00",
         "matchup": "Myanmar vs Malaysia",
         "home": "Myanmar",
@@ -63,6 +77,20 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persib Bandung s Arema FC vs ",
+        "home": "Persib Bandung s Arema FC",
+        "away": "",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
@@ -102,6 +130,34 @@
           "LFC TV"
         ],
         "tvPaid": []
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "PSMS Medan vs Port FC",
+        "home": "PSMS Medan",
+        "away": "Port FC",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persebaya Surabaya vs Persija Jakarta",
+        "home": "Persebaya Surabaya",
+        "away": "Persija Jakarta",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
       }
     ],
     "2026-07-27": [
@@ -183,6 +239,20 @@
         ]
       },
       {
+        "kickoff": "15:30",
+        "matchup": "Tampines Rovers vs Arema FC",
+        "home": "Tampines Rovers",
+        "away": "Arema FC",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "17:00",
         "matchup": "Filipina vs Myanmar",
         "home": "Filipina",
@@ -192,6 +262,20 @@
         "tvFree": [],
         "tvPaid": [
           "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "DPMM vs Persib Bandung",
+        "home": "DPMM",
+        "away": "Persib Bandung",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
@@ -242,6 +326,34 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Port FC vs Persija Jakarta",
+        "home": "Port FC",
+        "away": "Persija Jakarta",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persebaya Surabaya vs PSMS Medan",
+        "home": "Persebaya Surabaya",
+        "away": "PSMS Medan",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       }
     ],
