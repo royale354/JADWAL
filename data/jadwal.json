@@ -1,123 +1,7 @@
 {
-  "updated": "2026-07-25T04:52:00Z",
+  "updated": "2026-07-26T05:16:51Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-24": [
-      {
-        "kickoff": "19:00",
-        "matchup": "Kamboja vs Singapura",
-        "home": "Kamboja",
-        "away": "Singapura",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:30",
-        "matchup": "Timor-Leste vs Vietnam",
-        "home": "Timor-Leste",
-        "away": "Vietnam",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Rosenborg vs Manchester United",
-        "home": "Rosenborg",
-        "away": "Manchester United",
-        "competition": "Uji coba",
-        "tv": "MUTV",
-        "tvFree": [
-          "MUTV"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-07-25": [
-      {
-        "kickoff": "15:30",
-        "matchup": "DPMM vs Tampines Rovers",
-        "home": "DPMM",
-        "away": "Tampines Rovers",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Myanmar vs Malaysia",
-        "home": "Myanmar",
-        "away": "Malaysia",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "18:00",
-        "matchup": "Fortuna Dusseldorf vs Borussia Dortmund",
-        "home": "Fortuna Dusseldorf",
-        "away": "Borussia Dortmund",
-        "competition": "Uji coba",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "19:30",
-        "matchup": "Persib Bandung s Arema FC vs ",
-        "home": "Persib Bandung s Arema FC",
-        "away": "",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Laos vs Thailand",
-        "home": "Laos",
-        "away": "Thailand",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Bolton vs Everton",
-        "home": "Bolton",
-        "away": "Everton",
-        "competition": "Uji coba",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      }
-    ],
     "2026-07-26": [
       {
         "kickoff": "05:00",
@@ -393,6 +277,201 @@
           "LFC TV"
         ],
         "tvPaid": []
+      }
+    ],
+    "2026-07-31": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Senegal vs Kenya",
+        "home": "Senegal",
+        "away": "Kenya",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Maroko vs Aljazair",
+        "home": "Maroko",
+        "away": "Aljazair",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Arema FC vs DPMM",
+        "home": "Arema FC",
+        "away": "DPMM",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Timor-Leste vs Indonesia",
+        "home": "Timor-Leste",
+        "away": "Indonesia",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+ / RCTI / GTV",
+        "tvFree": [
+          "RCTI",
+          "GTV"
+        ],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persib Bandung vs Tampines Rovers",
+        "home": "Persib Bandung",
+        "away": "Tampines Rovers",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Vietnam vs Singapura",
+        "home": "Vietnam",
+        "away": "Singapura",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      }
+    ],
+    "2026-08-01": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Afrika Selatan vs Pantai Gading",
+        "home": "Afrika Selatan",
+        "away": "Pantai Gading",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Burkina Faso vs Tanzania",
+        "home": "Burkina Faso",
+        "away": "Tanzania",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Persija Jakarta vs PSMS Medan",
+        "home": "Persija Jakarta",
+        "away": "PSMS Medan",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Laos vs Filipina",
+        "home": "Laos",
+        "away": "Filipina",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persebaya Surabaya vs Port FC",
+        "home": "Persebaya Surabaya",
+        "away": "Port FC",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Thailand vs Malaysia",
+        "home": "Thailand",
+        "away": "Malaysia",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Manchester United vs Atletico Madrid",
+        "home": "Manchester United",
+        "away": "Atletico Madrid",
+        "competition": "Uji coba",
+        "tv": "MUTV",
+        "tvFree": [
+          "MUTV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "21:00",
+        "matchup": "Cardiff City vs AS Roma",
+        "home": "Cardiff City",
+        "away": "AS Roma",
+        "competition": "Uji coba",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "22:00",
+        "matchup": "Hamburger SV vs Everton",
+        "home": "Hamburger SV",
+        "away": "Everton",
+        "competition": "Uji coba",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
       }
     ]
   }
