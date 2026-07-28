@@ -1,60 +1,7 @@
 {
-  "updated": "2026-07-27T05:34:47Z",
+  "updated": "2026-07-28T04:49:54Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-27": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Aljazair vs Senegal",
-        "home": "Aljazair",
-        "away": "Senegal",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Maroko vs Kenya",
-        "home": "Maroko",
-        "away": "Kenya",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "18:00",
-        "matchup": "Singapura vs Timor-Leste",
-        "home": "Singapura",
-        "away": "Timor-Leste",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:30",
-        "matchup": "Indonesia vs Kamboja",
-        "home": "Indonesia",
-        "away": "Kamboja",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+ / RCTI / GTV",
-        "tvFree": [
-          "RCTI",
-          "GTV"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
     "2026-07-28": [
       {
         "kickoff": "00:00",
@@ -554,6 +501,56 @@
           "RCTI",
           "GTV"
         ],
+        "tvPaid": [
+          "Vision+"
+        ]
+      }
+    ],
+    "2026-08-04": [
+      {
+        "kickoff": "03:00",
+        "matchup": "Senegal vs Maroko",
+        "home": "Senegal",
+        "away": "Maroko",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Kenya vs Aljazair",
+        "home": "Kenya",
+        "away": "Aljazair",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Myanmar vs Laos",
+        "home": "Myanmar",
+        "away": "Laos",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Filipina vs Thailand",
+        "home": "Filipina",
+        "away": "Thailand",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
         "tvPaid": [
           "Vision+"
         ]
