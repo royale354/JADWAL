@@ -1,45 +1,7 @@
 {
-  "updated": "2026-07-31T05:20:55Z",
+  "updated": "2026-08-01T05:13:38Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-30": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Ghana vs Tanjung Verde",
-        "home": "Ghana",
-        "away": "Tanjung Verde",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Kamerun vs Mali",
-        "home": "Kamerun",
-        "away": "Mali",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "06:30",
-        "matchup": "Liverpool vs Wrexham",
-        "home": "Liverpool",
-        "away": "Wrexham",
-        "competition": "Uji coba",
-        "tv": "LFC TV",
-        "tvFree": [
-          "LFC TV"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-07-31": [
       {
         "kickoff": "00:00",
@@ -468,6 +430,32 @@
         "matchup": "Malawi vs Zambia",
         "home": "Malawi",
         "away": "Zambia",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      }
+    ],
+    "2026-08-07": [
+      {
+        "kickoff": "03:00",
+        "matchup": "Mali vs Ghana",
+        "home": "Mali",
+        "away": "Ghana",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Tanjung Verde vs Kamerun",
+        "home": "Tanjung Verde",
+        "away": "Kamerun",
         "competition": "Piala Afrika Wanita 2026",
         "tv": "beIN Sports 3",
         "tvFree": [],
