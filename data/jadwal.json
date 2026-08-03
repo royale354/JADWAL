@@ -1,252 +1,7 @@
 {
-  "updated": "2026-08-02T05:12:29Z",
+  "updated": "2026-08-03T05:25:45Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-07-31": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Senegal vs Kenya",
-        "home": "Senegal",
-        "away": "Kenya",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Maroko vs Aljazair",
-        "home": "Maroko",
-        "away": "Aljazair",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "15:30",
-        "matchup": "Arema FC vs DPMM",
-        "home": "Arema FC",
-        "away": "DPMM",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Timor-Leste vs Indonesia",
-        "home": "Timor-Leste",
-        "away": "Indonesia",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+ / RCTI / GTV",
-        "tvFree": [
-          "RCTI",
-          "GTV"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:30",
-        "matchup": "Persib Bandung vs Tampines Rovers",
-        "home": "Persib Bandung",
-        "away": "Tampines Rovers",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Vietnam vs Singapura",
-        "home": "Vietnam",
-        "away": "Singapura",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
-    "2026-08-01": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Afrika Selatan vs Pantai Gading",
-        "home": "Afrika Selatan",
-        "away": "Pantai Gading",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Burkina Faso vs Tanzania",
-        "home": "Burkina Faso",
-        "away": "Tanzania",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "15:30",
-        "matchup": "Persija Jakarta vs PSMS Medan",
-        "home": "Persija Jakarta",
-        "away": "PSMS Medan",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Laos vs Filipina",
-        "home": "Laos",
-        "away": "Filipina",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:30",
-        "matchup": "Persebaya Surabaya vs Port FC",
-        "home": "Persebaya Surabaya",
-        "away": "Port FC",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:30",
-        "matchup": "Aston Villa vs Indonesia All Stars",
-        "home": "Aston Villa",
-        "away": "Indonesia All Stars",
-        "competition": "Uji coba",
-        "tv": "ANTV",
-        "tvFree": [
-          "ANTV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Thailand vs Malaysia",
-        "home": "Thailand",
-        "away": "Malaysia",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Manchester United vs Atletico Madrid",
-        "home": "Manchester United",
-        "away": "Atletico Madrid",
-        "competition": "Uji coba",
-        "tv": "MUTV",
-        "tvFree": [
-          "MUTV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Cardiff City vs AS Roma",
-        "home": "Cardiff City",
-        "away": "AS Roma",
-        "competition": "Uji coba",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "22:00",
-        "matchup": "Hamburger SV vs Everton",
-        "home": "Hamburger SV",
-        "away": "Everton",
-        "competition": "Uji coba",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      }
-    ],
-    "2026-08-02": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Mesir vs Malawi",
-        "home": "Mesir",
-        "away": "Malawi",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Nigeria vs Zambia",
-        "home": "Nigeria",
-        "away": "Zambia",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Union Berlin vs Cagliari",
-        "home": "Union Berlin",
-        "away": "Cagliari",
-        "competition": "Uji coba",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      }
-    ],
     "2026-08-03": [
       {
         "kickoff": "00:00",
@@ -462,6 +217,80 @@
         "tvPaid": [
           "beIN Sports 3"
         ]
+      }
+    ],
+    "2026-08-08": [
+      {
+        "kickoff": "18:00",
+        "matchup": "Juventus vs Inter Milan",
+        "home": "Juventus",
+        "away": "Inter Milan",
+        "competition": "Uji coba",
+        "tv": "MD TV",
+        "tvFree": [
+          "MD TV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Chelsea vs AC Milan",
+        "home": "Chelsea",
+        "away": "AC Milan",
+        "competition": "Uji coba",
+        "tv": "TVRI",
+        "tvFree": [
+          "TVRI"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Malaysia vs Filipina",
+        "home": "Malaysia",
+        "away": "Filipina",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Thailand vs Myanmar",
+        "home": "Thailand",
+        "away": "Myanmar",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "20:30",
+        "matchup": "Bayer Leverkusen vs Sevilla",
+        "home": "Bayer Leverkusen",
+        "away": "Sevilla",
+        "competition": "Uji coba",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "22:00",
+        "matchup": "Manchester United vs PSG",
+        "home": "Manchester United",
+        "away": "PSG",
+        "competition": "Uji coba",
+        "tv": "MUTV",
+        "tvFree": [
+          "MUTV"
+        ],
+        "tvPaid": []
       }
     ]
   }
