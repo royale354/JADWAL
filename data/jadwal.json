@@ -1,72 +1,7 @@
 {
-  "updated": "2026-08-03T05:25:45Z",
+  "updated": "2026-08-04T04:50:54Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-03": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Ghana vs Kamerun",
-        "home": "Ghana",
-        "away": "Kamerun",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Mali vs Tanjung Verde",
-        "home": "Mali",
-        "away": "Tanjung Verde",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Liverpool vs Leeds United",
-        "home": "Liverpool",
-        "away": "Leeds United",
-        "competition": "Uji coba",
-        "tv": "LFC TV",
-        "tvFree": [
-          "LFC TV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "17:30",
-        "matchup": "Kamboja vs Timor-Leste",
-        "home": "Kamboja",
-        "away": "Timor-Leste",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:30",
-        "matchup": "Indonesia vs Vietnam",
-        "home": "Indonesia",
-        "away": "Vietnam",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+ / RCTI / GTV",
-        "tvFree": [
-          "RCTI",
-          "GTV"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
     "2026-08-04": [
       {
         "kickoff": "03:00",
@@ -93,6 +28,20 @@
         ]
       },
       {
+        "kickoff": "15:30",
+        "matchup": "Persib Bandung vs Persija Jakarta",
+        "home": "Persib Bandung",
+        "away": "Persija Jakarta",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "17:00",
         "matchup": "Myanmar vs Laos",
         "home": "Myanmar",
@@ -102,6 +51,20 @@
         "tvFree": [],
         "tvPaid": [
           "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:30",
+        "matchup": "Persebaya Surabaya vs Arema FC",
+        "home": "Persebaya Surabaya",
+        "away": "Arema FC",
+        "competition": "Piala Presiden 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
