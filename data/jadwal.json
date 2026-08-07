@@ -1,61 +1,7 @@
 {
-  "updated": "2026-08-06T04:51:07Z",
+  "updated": "2026-08-07T04:16:24Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-06": [
-      {
-        "kickoff": "03:00",
-        "matchup": "Mesir vs Nigeria",
-        "home": "Mesir",
-        "away": "Nigeria",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Malawi vs Zambia",
-        "home": "Malawi",
-        "away": "Zambia",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "15:30",
-        "matchup": "Persija Jakarta vs Arema FC",
-        "home": "Persija Jakarta",
-        "away": "Arema FC",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Persib Bandung vs Persebaya Surabaya",
-        "home": "Persib Bandung",
-        "away": "Persebaya Surabaya",
-        "competition": "Piala Presiden 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-08-07": [
       {
         "kickoff": "03:00",
@@ -190,6 +136,46 @@
         "tv": "LFC TV",
         "tvFree": [
           "LFC TV"
+        ],
+        "tvPaid": []
+      }
+    ],
+    "2026-08-10": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Kamerun vs Nigeria",
+        "home": "Kamerun",
+        "away": "Nigeria",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Malawi vs Ghana",
+        "home": "Malawi",
+        "away": "Ghana",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      }
+    ],
+    "2026-08-11": [
+      {
+        "kickoff": "17:00",
+        "matchup": "Juventus vs Palermo",
+        "home": "Juventus",
+        "away": "Palermo",
+        "competition": "Uji coba",
+        "tv": "MD TV",
+        "tvFree": [
+          "MD TV"
         ],
         "tvPaid": []
       }
