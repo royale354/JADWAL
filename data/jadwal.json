@@ -1,71 +1,7 @@
 {
-  "updated": "2026-08-10T03:41:04Z",
+  "updated": "2026-08-11T03:23:50Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-09": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Pantai Gading vs Aljazair",
-        "home": "Pantai Gading",
-        "away": "Aljazair",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Maroko vs Afrika Selatan",
-        "home": "Maroko",
-        "away": "Afrika Selatan",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "20:30",
-        "matchup": "Liverpool vs AS Monaco",
-        "home": "Liverpool",
-        "away": "AS Monaco",
-        "competition": "Uji coba",
-        "tv": "LFC TV",
-        "tvFree": [
-          "LFC TV"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-08-10": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Kamerun vs Nigeria",
-        "home": "Kamerun",
-        "away": "Nigeria",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Malawi vs Ghana",
-        "home": "Malawi",
-        "away": "Ghana",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      }
-    ],
     "2026-08-11": [
       {
         "kickoff": "17:00",
@@ -78,6 +14,320 @@
           "MD TV"
         ],
         "tvPaid": []
+      }
+    ],
+    "2026-08-12": [
+      {
+        "kickoff": "16:45",
+        "matchup": "A-League All Stars vs Chelsea",
+        "home": "A-League All Stars",
+        "away": "Chelsea",
+        "competition": "Uji coba (putri)",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      }
+    ],
+    "2026-08-13": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Aljazair vs Malawi",
+        "home": "Aljazair",
+        "away": "Malawi",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "01:30",
+        "matchup": "Leeds United vs Manchester United",
+        "home": "Leeds United",
+        "away": "Manchester United",
+        "competition": "Uji coba",
+        "tv": "MUTV",
+        "tvFree": [
+          "MUTV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "PSG vs Aston Villa",
+        "home": "PSG",
+        "away": "Aston Villa",
+        "competition": "Piala Super Eropa",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Maroko vs Kamerun",
+        "home": "Maroko",
+        "away": "Kamerun",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      }
+    ],
+    "2026-08-14": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Pantai Gading vs Ghana",
+        "home": "Pantai Gading",
+        "away": "Ghana",
+        "competition": "Piala Afrika Wanita 2026 (Play-off)",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Afrika Selatan vs Nigeria",
+        "home": "Afrika Selatan",
+        "away": "Nigeria",
+        "competition": "Piala Afrika Wanita 2026 (Play-off)",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      }
+    ],
+    "2026-08-15": [
+      {
+        "kickoff": "01:30",
+        "matchup": "Galatasaray vs Corum",
+        "home": "Galatasaray",
+        "away": "Corum",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "18:30",
+        "matchup": "Borussia Dortmund vs AS Roma",
+        "home": "Borussia Dortmund",
+        "away": "AS Roma",
+        "competition": "Uji coba (putri)",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Singapura vs Thailand",
+        "home": "Singapura",
+        "away": "Thailand",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "20:30",
+        "matchup": "Borussia Monchengladbach vs Aston Villa",
+        "home": "Borussia Monchengladbach",
+        "away": "Aston Villa",
+        "competition": "Uji coba",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "21:00",
+        "matchup": "Everton vs Lille",
+        "home": "Everton",
+        "away": "Lille",
+        "competition": "Uji coba",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "21:45",
+        "matchup": "Manchester United vs AC Milan",
+        "home": "Manchester United",
+        "away": "AC Milan",
+        "competition": "Uji coba",
+        "tv": "MUTV",
+        "tvFree": [
+          "MUTV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "23:00",
+        "matchup": "Kasimpasa vs Trabzonspor",
+        "home": "Kasimpasa",
+        "away": "Trabzonspor",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      }
+    ],
+    "2026-08-16": [
+      {
+        "kickoff": "00:30",
+        "matchup": "Deportivo Alves vs Getafe",
+        "home": "Deportivo Alves",
+        "away": "Getafe",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "01:30",
+        "matchup": "Genclerbirligi vs Fenerbahce",
+        "home": "Genclerbirligi",
+        "away": "Fenerbahce",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Sevilla vs Rayo Vallecano",
+        "home": "Sevilla",
+        "away": "Rayo Vallecano",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "18:00",
+        "matchup": "Liverpool vs Como",
+        "home": "Liverpool",
+        "away": "Como",
+        "competition": "Uji coba",
+        "tv": "LFC TV",
+        "tvFree": [
+          "LFC TV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Malaysia vs Vietnam",
+        "home": "Malaysia",
+        "away": "Vietnam",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "22:00",
+        "matchup": "Racing Santander vs Villarreal",
+        "home": "Racing Santander",
+        "away": "Villarreal",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      }
+    ],
+    "2026-08-17": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Espanyol vs Levante",
+        "home": "Espanyol",
+        "away": "Levante",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "01:30",
+        "matchup": "Besiktas vs Eyupspor",
+        "home": "Besiktas",
+        "away": "Eyupspor",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Celta Vigo vs Osasuna",
+        "home": "Celta Vigo",
+        "away": "Osasuna",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      }
+    ],
+    "2026-08-18": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Deportivo La Coruna vs Elche",
+        "home": "Deportivo La Coruna",
+        "away": "Elche",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Thailand vs Singapura",
+        "home": "Thailand",
+        "away": "Singapura",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
       }
     ]
   }
