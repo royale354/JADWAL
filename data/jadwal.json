@@ -1,35 +1,7 @@
 {
-  "updated": "2026-08-12T03:52:18Z",
+  "updated": "2026-08-13T03:55:57Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-11": [
-      {
-        "kickoff": "17:00",
-        "matchup": "Juventus vs Palermo",
-        "home": "Juventus",
-        "away": "Palermo",
-        "competition": "Uji coba",
-        "tv": "MD TV",
-        "tvFree": [
-          "MD TV"
-        ],
-        "tvPaid": []
-      }
-    ],
-    "2026-08-12": [
-      {
-        "kickoff": "16:45",
-        "matchup": "A-League All Stars vs Chelsea",
-        "home": "A-League All Stars",
-        "away": "Chelsea",
-        "competition": "Uji coba (putri)",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      }
-    ],
     "2026-08-13": [
       {
         "kickoff": "00:00",
@@ -78,6 +50,20 @@
         "tvPaid": [
           "beIN Sports 3"
         ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Bali United vs Sabah",
+        "home": "Bali United",
+        "away": "Sabah",
+        "competition": "Dewata Challenge Series 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
       }
     ],
     "2026-08-14": [
@@ -108,6 +94,18 @@
     ],
     "2026-08-15": [
       {
+        "kickoff": "01:00",
+        "matchup": "Al-Hilal vs Al-Faisaly",
+        "home": "Al-Hilal",
+        "away": "Al-Faisaly",
+        "competition": "Saudi Pro League",
+        "tv": "SPOTV",
+        "tvFree": [],
+        "tvPaid": [
+          "SPOTV"
+        ]
+      },
+      {
         "kickoff": "01:30",
         "matchup": "Galatasaray vs Corum",
         "home": "Galatasaray",
@@ -129,6 +127,20 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Sabah vs Persib Bandung",
+        "home": "Sabah",
+        "away": "Persib Bandung",
+        "competition": "Dewata Challenge Series 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
@@ -194,6 +206,18 @@
     ],
     "2026-08-16": [
       {
+        "kickoff": "00:00",
+        "matchup": "Maroko vs Aljazair",
+        "home": "Maroko",
+        "away": "Aljazair",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
         "kickoff": "00:30",
         "matchup": "Deportivo Alves vs Getafe",
         "home": "Deportivo Alves",
@@ -203,6 +227,18 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "01:00",
+        "matchup": "Al-Nassr vs Al-Fateh",
+        "home": "Al-Nassr",
+        "away": "Al-Fateh",
+        "competition": "Saudi Pro League",
+        "tv": "SPOTV",
+        "tvFree": [],
+        "tvPaid": [
+          "SPOTV"
         ]
       },
       {
@@ -292,6 +328,18 @@
         ]
       },
       {
+        "kickoff": "02:00",
+        "matchup": "Kamerun vs Malawi",
+        "home": "Kamerun",
+        "away": "Malawi",
+        "competition": "Piala Afrika Wanita 2026",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
         "kickoff": "02:30",
         "matchup": "Celta Vigo vs Osasuna",
         "home": "Celta Vigo",
@@ -327,6 +375,118 @@
         "tvFree": [],
         "tvPaid": [
           "Vision+"
+        ]
+      }
+    ],
+    "2026-08-19": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Fenerbahce vs Lyon",
+        "home": "Fenerbahce",
+        "away": "Lyon",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Levski Sofia vs AEK Athena",
+        "home": "Levski Sofia",
+        "away": "AEK Athena",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Dinamo Zagrev vs Viking",
+        "home": "Dinamo Zagrev",
+        "away": "Viking",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Vietnam vs Malaysia",
+        "home": "Vietnam",
+        "away": "Malaysia",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      }
+    ],
+    "2026-08-20": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Celtic vs LASK",
+        "home": "Celtic",
+        "away": "LASK",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "NEC Nijmegen vs Bodo/Glimt",
+        "home": "NEC Nijmegen",
+        "away": "Bodo/Glimt",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Slovan Bratislava vs Celje",
+        "home": "Slovan Bratislava",
+        "away": "Celje",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Hapoel Beer Sheva vs Sabah Baku",
+        "home": "Hapoel Beer Sheva",
+        "away": "Sabah Baku",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Atletico Madrid vs Malaga",
+        "home": "Atletico Madrid",
+        "away": "Malaga",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
         ]
       }
     ]
