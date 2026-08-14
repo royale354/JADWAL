@@ -1,71 +1,7 @@
 {
-  "updated": "2026-08-13T03:55:57Z",
+  "updated": "2026-08-14T03:52:55Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-13": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Aljazair vs Malawi",
-        "home": "Aljazair",
-        "away": "Malawi",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "01:30",
-        "matchup": "Leeds United vs Manchester United",
-        "home": "Leeds United",
-        "away": "Manchester United",
-        "competition": "Uji coba",
-        "tv": "MUTV",
-        "tvFree": [
-          "MUTV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "PSG vs Aston Villa",
-        "home": "PSG",
-        "away": "Aston Villa",
-        "competition": "Piala Super Eropa",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Maroko vs Kamerun",
-        "home": "Maroko",
-        "away": "Kamerun",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Bali United vs Sabah",
-        "home": "Bali United",
-        "away": "Sabah",
-        "competition": "Dewata Challenge Series 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-08-14": [
       {
         "kickoff": "00:00",
@@ -149,8 +85,10 @@
         "home": "Singapura",
         "away": "Thailand",
         "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
         "tvPaid": [
           "Vision+"
         ]
@@ -202,6 +140,18 @@
         "tvPaid": [
           "beIN Sports 3"
         ]
+      },
+      {
+        "kickoff": "23:45",
+        "matchup": "Utrecht vs AZ Alkmaar",
+        "home": "Utrecht",
+        "away": "AZ Alkmaar",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
       }
     ],
     "2026-08-16": [
@@ -242,6 +192,18 @@
         ]
       },
       {
+        "kickoff": "01:00",
+        "matchup": "Excelsior vs PSV Eindhoven",
+        "home": "Excelsior",
+        "away": "PSV Eindhoven",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "01:30",
         "matchup": "Genclerbirligi vs Fenerbahce",
         "home": "Genclerbirligi",
@@ -266,6 +228,18 @@
         ]
       },
       {
+        "kickoff": "02:30",
+        "matchup": "Rio Ave vs Porto",
+        "home": "Rio Ave",
+        "away": "Porto",
+        "competition": "Liga Portugal",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "18:00",
         "matchup": "Liverpool vs Como",
         "home": "Liverpool",
@@ -278,15 +252,41 @@
         "tvPaid": []
       },
       {
+        "kickoff": "19:30",
+        "matchup": "Feyenoord vs Go Ahead Eagles",
+        "home": "Feyenoord",
+        "away": "Go Ahead Eagles",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "20:00",
         "matchup": "Malaysia vs Vietnam",
         "home": "Malaysia",
         "away": "Vietnam",
         "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
         "tvPaid": [
           "Vision+"
+        ]
+      },
+      {
+        "kickoff": "21:45",
+        "matchup": "Ajax vs Heerenveen",
+        "home": "Ajax",
+        "away": "Heerenveen",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
@@ -366,13 +366,29 @@
         ]
       },
       {
+        "kickoff": "19:00",
+        "matchup": "Persib Bandung vs Bali United",
+        "home": "Persib Bandung",
+        "away": "Bali United",
+        "competition": "Dewata Challenge Series 2026",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "20:00",
         "matchup": "Thailand vs Singapura",
         "home": "Thailand",
         "away": "Singapura",
         "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
         "tvPaid": [
           "Vision+"
         ]
@@ -421,8 +437,10 @@
         "home": "Vietnam",
         "away": "Malaysia",
         "competition": "Piala AFF 2026",
-        "tv": "Vision+",
-        "tvFree": [],
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
         "tvPaid": [
           "Vision+"
         ]
@@ -487,6 +505,20 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 2"
+        ]
+      }
+    ],
+    "2026-08-21": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Rayo Vallecano vs Deportivo Alaves",
+        "home": "Rayo Vallecano",
+        "away": "Deportivo Alaves",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
         ]
       }
     ]
