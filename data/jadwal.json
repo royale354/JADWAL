@@ -1,33 +1,7 @@
 {
-  "updated": "2026-08-14T03:52:55Z",
+  "updated": "2026-08-15T02:42:02Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-14": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Pantai Gading vs Ghana",
-        "home": "Pantai Gading",
-        "away": "Ghana",
-        "competition": "Piala Afrika Wanita 2026 (Play-off)",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Afrika Selatan vs Nigeria",
-        "home": "Afrika Selatan",
-        "away": "Nigeria",
-        "competition": "Piala Afrika Wanita 2026 (Play-off)",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      }
-    ],
     "2026-08-15": [
       {
         "kickoff": "01:00",
@@ -275,6 +249,18 @@
         ],
         "tvPaid": [
           "Vision+"
+        ]
+      },
+      {
+        "kickoff": "21:00",
+        "matchup": "Arsenal vs Manchester City",
+        "home": "Arsenal",
+        "away": "Manchester City",
+        "competition": "Community Shield",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
