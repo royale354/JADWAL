@@ -1,57 +1,7 @@
 {
-  "updated": "2026-08-18T02:44:39Z",
+  "updated": "2026-08-19T02:46:32Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-17": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Espanyol vs Levante",
-        "home": "Espanyol",
-        "away": "Levante",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "01:30",
-        "matchup": "Besiktas vs Eyupspor",
-        "home": "Besiktas",
-        "away": "Eyupspor",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Kamerun vs Malawi",
-        "home": "Kamerun",
-        "away": "Malawi",
-        "competition": "Piala Afrika Wanita 2026",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "02:30",
-        "matchup": "Celta Vigo vs Osasuna",
-        "home": "Celta Vigo",
-        "away": "Osasuna",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      }
-    ],
     "2026-08-18": [
       {
         "kickoff": "02:00",
@@ -585,6 +535,68 @@
         "tvFree": [],
         "tvPaid": [
           "Vidio"
+        ]
+      }
+    ],
+    "2026-08-25": [
+      {
+        "kickoff": "00:30",
+        "matchup": "Osasuna vs Levante",
+        "home": "Osasuna",
+        "away": "Levante",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "01:45",
+        "matchup": "AS Roma vs Fiorentina",
+        "home": "AS Roma",
+        "away": "Fiorentina",
+        "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Fulham vs Chelsea",
+        "home": "Fulham",
+        "away": "Chelsea",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Malaga vs Deportivo La Coruna",
+        "home": "Malaga",
+        "away": "Deportivo La Coruna",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "23:45",
+        "matchup": "Sabah Baku vs Hapoel Beer Sheva",
+        "home": "Sabah Baku",
+        "away": "Hapoel Beer Sheva",
+        "competition": "Liga Champions",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
         ]
       }
     ]
