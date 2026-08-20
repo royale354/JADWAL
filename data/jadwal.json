@@ -1,49 +1,7 @@
 {
-  "updated": "2026-08-19T02:46:32Z",
+  "updated": "2026-08-20T02:45:30Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-18": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Deportivo La Coruna vs Elche",
-        "home": "Deportivo La Coruna",
-        "away": "Elche",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Persib Bandung vs Bali United",
-        "home": "Persib Bandung",
-        "away": "Bali United",
-        "competition": "Dewata Challenge Series 2026",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Thailand vs Singapura",
-        "home": "Thailand",
-        "away": "Singapura",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+ / RCTI",
-        "tvFree": [
-          "RCTI"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
     "2026-08-19": [
       {
         "kickoff": "02:00",
@@ -592,11 +550,49 @@
         "matchup": "Sabah Baku vs Hapoel Beer Sheva",
         "home": "Sabah Baku",
         "away": "Hapoel Beer Sheva",
-        "competition": "Liga Champions",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      }
+    ],
+    "2026-08-26": [
+      {
+        "kickoff": "02:00",
+        "matchup": "LASK vs Celtic",
+        "home": "LASK",
+        "away": "Celtic",
+        "competition": "Play-off Liga Champions",
         "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Bodo/Glimt vs NEC Nijmegen",
+        "home": "Bodo/Glimt",
+        "away": "NEC Nijmegen",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Valencia vs Real Betis",
+        "home": "Valencia",
+        "away": "Real Betis",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
         ]
       }
     ]
