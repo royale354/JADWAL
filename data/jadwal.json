@@ -1,59 +1,7 @@
 {
-  "updated": "2026-08-20T02:45:30Z",
+  "updated": "2026-08-21T02:52:25Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-19": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Fenerbahce vs Lyon",
-        "home": "Fenerbahce",
-        "away": "Lyon",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Levski Sofia vs AEK Athena",
-        "home": "Levski Sofia",
-        "away": "AEK Athena",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Dinamo Zagrev vs Viking",
-        "home": "Dinamo Zagrev",
-        "away": "Viking",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Vietnam vs Malaysia",
-        "home": "Vietnam",
-        "away": "Malaysia",
-        "competition": "Piala AFF 2026",
-        "tv": "Vision+ / RCTI",
-        "tvFree": [
-          "RCTI"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
     "2026-08-20": [
       {
         "kickoff": "02:00",
@@ -118,6 +66,18 @@
     ],
     "2026-08-21": [
       {
+        "kickoff": "01:00",
+        "matchup": "Al-Fayha vs Al-Hilal",
+        "home": "Al-Fayha",
+        "away": "Al-Hilal",
+        "competition": "Saudi Pro League",
+        "tv": "SPOTV 2",
+        "tvFree": [],
+        "tvPaid": [
+          "SPOTV 2"
+        ]
+      },
+      {
         "kickoff": "02:00",
         "matchup": "Rayo Vallecano vs Deportivo Alaves",
         "home": "Rayo Vallecano",
@@ -128,6 +88,18 @@
         "tvPaid": [
           "beIN Sports 1"
         ]
+      },
+      {
+        "kickoff": "23:00",
+        "matchup": "Al-Riyadh vs Al-Nassr",
+        "home": "Al-Riyadh",
+        "away": "Al-Nassr",
+        "competition": "Saudi Pro League",
+        "tv": "SPOTV 2",
+        "tvFree": [],
+        "tvPaid": [
+          "SPOTV 2"
+        ]
       }
     ],
     "2026-08-22": [
@@ -137,10 +109,10 @@
         "home": "Al-Qadsiah",
         "away": "Al-Ittihad",
         "competition": "Saudi Pro League",
-        "tv": "SPOTV2",
+        "tv": "SPOTV 2",
         "tvFree": [],
         "tvPaid": [
-          "SPOTV2"
+          "SPOTV 2"
         ]
       },
       {
@@ -189,6 +161,20 @@
         "tvFree": [],
         "tvPaid": [
           "Vidio"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Thailand vs Vietnam",
+        "home": "Thailand",
+        "away": "Vietnam",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
+        "tvPaid": [
+          "Vision+"
         ]
       },
       {
@@ -588,6 +574,82 @@
         "matchup": "Valencia vs Real Betis",
         "home": "Valencia",
         "away": "Real Betis",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Vietnam vs Thailand",
+        "home": "Vietnam",
+        "away": "Thailand",
+        "competition": "Piala AFF 2026",
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
+        "tvPaid": [
+          "Vision+"
+        ]
+      }
+    ],
+    "2026-08-27": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Celje vs Slovan Bratislava",
+        "home": "Celje",
+        "away": "Slovan Bratislava",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Viking vs Dinamo Zagreb",
+        "home": "Viking",
+        "away": "Dinamo Zagreb",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "AEK Athena vs Levski Sofia",
+        "home": "AEK Athena",
+        "away": "Levski Sofia",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Lyon vs Fenerbahce",
+        "home": "Lyon",
+        "away": "Fenerbahce",
+        "competition": "Play-off Liga Champions",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Real Madrid vs Real Sociedad",
+        "home": "Real Madrid",
+        "away": "Real Sociedad",
         "competition": "Liga Spanyol",
         "tv": "beIN Sports 2",
         "tvFree": [],
