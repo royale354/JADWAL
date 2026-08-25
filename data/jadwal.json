@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T02:52:48Z",
+  "updated": "2026-08-25T02:48:17Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
     "2026-08-24": [
@@ -665,6 +665,80 @@
         "tvFree": [],
         "tvPaid": [
           "Vidio"
+        ]
+      }
+    ],
+    "2026-09-01": [
+      {
+        "kickoff": "00:30",
+        "matchup": "Osasuna vs Getafe",
+        "home": "Osasuna",
+        "away": "Getafe",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "01:30",
+        "matchup": "Amedspor vs Trabzonspor",
+        "home": "Amedspor",
+        "away": "Trabzonspor",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "01:30",
+        "matchup": "Besiktas vs Corum",
+        "home": "Besiktas",
+        "away": "Corum",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "01:45",
+        "matchup": "Atalanta vs Bologna",
+        "home": "Atalanta",
+        "away": "Bologna",
+        "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Aston Villa vs Arsenal",
+        "home": "Aston Villa",
+        "away": "Arsenal",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Barcelona vs Rayo Vallecano",
+        "home": "Barcelona",
+        "away": "Rayo Vallecano",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
         ]
       }
     ]
