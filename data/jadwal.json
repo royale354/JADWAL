@@ -1,69 +1,7 @@
 {
-  "updated": "2026-08-27T12:04:15Z",
+  "updated": "2026-08-28T13:26:03Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-27": [
-      {
-        "kickoff": "02:00",
-        "matchup": "Celje vs Slovan Bratislava",
-        "home": "Celje",
-        "away": "Slovan Bratislava",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Viking vs Dinamo Zagreb",
-        "home": "Viking",
-        "away": "Dinamo Zagreb",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "AEK Athena vs Levski Sofia",
-        "home": "AEK Athena",
-        "away": "Levski Sofia",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Lyon vs Fenerbahce",
-        "home": "Lyon",
-        "away": "Fenerbahce",
-        "competition": "Play-off Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Real Madrid vs Real Sociedad",
-        "home": "Real Madrid",
-        "away": "Real Sociedad",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      }
-    ],
     "2026-08-28": [
       {
         "kickoff": "01:30",
@@ -327,6 +265,18 @@
         "home": "Juventus",
         "away": "Parma",
         "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "01:45",
+        "matchup": "Lyon vs Le Havre",
+        "home": "Lyon",
+        "away": "Le Havre",
+        "competition": "Liga Prancis",
         "tv": "Vidio",
         "tvFree": [],
         "tvPaid": [
@@ -654,6 +604,60 @@
         "tvFree": [
           "Indosiar",
           "SCTV"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      }
+    ],
+    "2026-09-04": [
+      {
+        "kickoff": "01:45",
+        "matchup": "Toulouse vs Lille",
+        "home": "Toulouse",
+        "away": "Lille",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Real Sociedad vs Celta Vigo",
+        "home": "Real Sociedad",
+        "away": "Celta Vigo",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Arema FC vs Isenmulang Kalteng",
+        "home": "Arema FC",
+        "away": "Isenmulang Kalteng",
+        "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Bali United vs PSS Sleman",
+        "home": "Bali United",
+        "away": "PSS Sleman",
+        "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
         ],
         "tvPaid": [
           "Vidio"
