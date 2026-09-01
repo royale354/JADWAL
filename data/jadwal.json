@@ -1,134 +1,7 @@
 {
-  "updated": "2026-08-31T07:45:30Z",
+  "updated": "2026-09-01T06:51:46Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-08-31": [
-      {
-        "kickoff": "00:30",
-        "matchup": "Deportivo La Coruna vs Valencia",
-        "home": "Deportivo La Coruna",
-        "away": "Valencia",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "01:30",
-        "matchup": "Samsunspor vs Fenerbahce",
-        "home": "Samsunspor",
-        "away": "Fenerbahce",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "Cagliari vs Inter Milan",
-        "home": "Cagliari",
-        "away": "Inter Milan",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "Lazio vs Genoa",
-        "home": "Lazio",
-        "away": "Genoa",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "AS Monaco vs Marseille",
-        "home": "AS Monaco",
-        "away": "Marseille",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:30",
-        "matchup": "Celta Vigo vs Athletic Bilbao",
-        "home": "Celta Vigo",
-        "away": "Athletic Bilbao",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "16:00",
-        "matchup": "Indonesia vs Malaysia",
-        "home": "Indonesia",
-        "away": "Malaysia",
-        "competition": "Kualifikasi Piala Asia U-20 2027",
-        "tv": "Vidio / Indosiar / SCTV",
-        "tvFree": [
-          "Indosiar",
-          "SCTV"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Persib Bandung vs Manila Digger",
-        "home": "Persib Bandung",
-        "away": "Manila Digger",
-        "competition": "Liga Champions Asia Two",
-        "tv": "Vision+ / RCTI",
-        "tvFree": [
-          "RCTI"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Australia vs Laos",
-        "home": "Australia",
-        "away": "Laos",
-        "competition": "Kualifikasi Piala Asia U-20 2027",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Lecce vs AS Roma",
-        "home": "Lecce",
-        "away": "AS Roma",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-09-01": [
       {
         "kickoff": "00:30",
@@ -283,6 +156,18 @@
         ],
         "tvPaid": [
           "Vidio"
+        ]
+      },
+      {
+        "kickoff": "00:00",
+        "matchup": "Basaksehir vs Galatasaray",
+        "home": "Basaksehir",
+        "away": "Galatasaray",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
         ]
       },
       {
@@ -532,6 +417,18 @@
     ],
     "2026-09-05": [
       {
+        "kickoff": "00:00",
+        "matchup": "Fenerbahce vs Besiktas",
+        "home": "Fenerbahce",
+        "away": "Besiktas",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
         "kickoff": "01:45",
         "matchup": "AS Roma vs Atalanta",
         "home": "AS Roma",
@@ -753,6 +650,18 @@
       }
     ],
     "2026-09-07": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Trabzonspor vs Genclerbirligi",
+        "home": "Trabzonspor",
+        "away": "Genclerbirligi",
+        "competition": "Liga Turki",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
       {
         "kickoff": "01:45",
         "matchup": "Juventus vs AC Milan",
