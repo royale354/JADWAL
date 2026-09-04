@@ -1,36 +1,7 @@
 {
-  "updated": "2026-09-03T06:33:57Z",
+  "updated": "2026-09-04T06:36:22Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-09-03": [
-      {
-        "kickoff": "16:00",
-        "matchup": "Malaysia vs Australia",
-        "home": "Malaysia",
-        "away": "Australia",
-        "competition": "Kualifikasi Piala Asia U-20 2027",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Laos vs Indonesia",
-        "home": "Laos",
-        "away": "Indonesia",
-        "competition": "Kualifikasi Piala Asia U-20 2027",
-        "tv": "Vidio / Indosiar / SCTV",
-        "tvFree": [
-          "Indosiar",
-          "SCTV"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-09-04": [
       {
         "kickoff": "01:45",
@@ -184,9 +155,9 @@
       },
       {
         "kickoff": "15:30",
-        "matchup": "Persik Kediri vs Dewa United",
+        "matchup": "Persik Kediri vs Dewa United Banten",
         "home": "Persik Kediri",
-        "away": "Dewa United",
+        "away": "Dewa United Banten",
         "competition": "BRI Super League",
         "tv": "Vidio",
         "tvFree": [],
@@ -341,6 +312,18 @@
         ]
       },
       {
+        "kickoff": "22:15",
+        "matchup": "Lens vs Lorient",
+        "home": "Lens",
+        "away": "Lorient",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "23:00",
         "matchup": "Inter Milan vs Napoli",
         "home": "Inter Milan",
@@ -415,6 +398,30 @@
         ]
       },
       {
+        "kickoff": "01:45",
+        "matchup": "Le Havre vs Brest",
+        "home": "Le Havre",
+        "away": "Brest",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "01:45",
+        "matchup": "Nice vs Le Mans",
+        "home": "Nice",
+        "away": "Le Mans",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "02:00",
         "matchup": "Villarreal vs Deportivo La Coruna",
         "home": "Villarreal",
@@ -432,6 +439,20 @@
         "home": "Java United",
         "away": "Garudayaksa",
         "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "16:00",
+        "matchup": "Australia vs Indonesia",
+        "home": "Australia",
+        "away": "Indonesia",
+        "competition": "Kualifikasi Piala Asia U-20 2027",
         "tv": "Vidio / Indosiar",
         "tvFree": [
           "Indosiar"
@@ -498,6 +519,18 @@
         "tvFree": [
           "Indosiar"
         ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Malaysia vs Laos",
+        "home": "Malaysia",
+        "away": "Laos",
+        "competition": "Kualifikasi Piala Asia U-20 2027",
+        "tv": "Vidio",
+        "tvFree": [],
         "tvPaid": [
           "Vidio"
         ]
@@ -854,6 +887,80 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 3"
+        ]
+      }
+    ],
+    "2026-09-11": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Manchester United vs Sabah Baku",
+        "home": "Manchester United",
+        "away": "Sabah Baku",
+        "competition": "Liga Champions",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Como vs RB Leipzig",
+        "home": "Como",
+        "away": "RB Leipzig",
+        "competition": "Liga Champions",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Bayern Munich vs Bodo/Glimt",
+        "home": "Bayern Munich",
+        "away": "Bodo/Glimt",
+        "competition": "Liga Champions",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Slavia Praha vs Lens",
+        "home": "Slavia Praha",
+        "away": "Lens",
+        "competition": "Liga Champions",
+        "tv": "beIN Sports XTra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports XTra"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Garudayaksa vs Persik Kediri",
+        "home": "Garudayaksa",
+        "away": "Persik Kediri",
+        "competition": "BRI Super League",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Dewa United Banten vs Bhayangkara Presisi Lampung",
+        "home": "Dewa United Banten",
+        "away": "Bhayangkara Presisi Lampung",
+        "competition": "BRI Super League",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       }
     ]
