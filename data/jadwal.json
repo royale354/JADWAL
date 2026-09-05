@@ -1,60 +1,8 @@
 {
-  "updated": "2026-09-04T06:36:22Z",
+  "updated": "2026-09-05T06:22:50Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-09-04": [
-      {
-        "kickoff": "01:45",
-        "matchup": "Toulouse vs Lille",
-        "home": "Toulouse",
-        "away": "Lille",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Real Sociedad vs Celta Vigo",
-        "home": "Real Sociedad",
-        "away": "Celta Vigo",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "15:30",
-        "matchup": "Arema FC vs Isenmulang Kalteng",
-        "home": "Arema FC",
-        "away": "Isenmulang Kalteng",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Bali United vs PSS Sleman",
-        "home": "Bali United",
-        "away": "PSS Sleman",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
+    "2026-09-05": [
       {
         "kickoff": "00:00",
         "matchup": "Lyon vs Auxerre",
@@ -228,6 +176,18 @@
         ]
       },
       {
+        "kickoff": "20:30",
+        "matchup": "Hoffenheim vs Borussia Dortmund",
+        "home": "Hoffenheim",
+        "away": "Borussia Dortmund",
+        "competition": "Liga Jerman",
+        "tv": "MAXStream TV",
+        "tvFree": [
+          "MAXStream TV"
+        ],
+        "tvPaid": []
+      },
+      {
         "kickoff": "21:00",
         "matchup": "Brentford vs Sunderland",
         "home": "Brentford",
@@ -358,9 +318,21 @@
         "tvPaid": [
           "beIN Sports 1"
         ]
+      },
+      {
+        "kickoff": "23:30",
+        "matchup": "Schalke 04 vs Bayern Munich",
+        "home": "Schalke 04",
+        "away": "Bayern Munich",
+        "competition": "Liga Jerman",
+        "tv": "MAXStream TV",
+        "tvFree": [
+          "MAXStream TV"
+        ],
+        "tvPaid": []
       }
     ],
-    "2026-09-05": [
+    "2026-09-06": [
       {
         "kickoff": "00:00",
         "matchup": "Fenerbahce vs Besiktas",
@@ -608,6 +580,18 @@
         ]
       },
       {
+        "kickoff": "20:00",
+        "matchup": "Troyes vs Strasbourg",
+        "home": "Troyes",
+        "away": "Strasbourg",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "20:30",
         "matchup": "Manchester City vs Birmingham City",
         "home": "Manchester City",
@@ -629,6 +613,18 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "22:15",
+        "matchup": "Angers vs Rennes",
+        "home": "Angers",
+        "away": "Rennes",
+        "competition": "Liga Prancis",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
