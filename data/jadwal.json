@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T06:36:38Z",
+  "updated": "2026-09-09T06:48:03Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
     "2026-09-09": [
@@ -1113,6 +1113,214 @@
         "tvFree": [],
         "tvPaid": [
           "Vision+"
+        ]
+      }
+    ],
+    "2026-09-16": [
+      {
+        "kickoff": "00:00",
+        "matchup": "Rayo Vallecano vs Espanyol",
+        "home": "Rayo Vallecano",
+        "away": "Espanyol",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 3",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 3"
+        ]
+      },
+      {
+        "kickoff": "01:00",
+        "matchup": "Deportivo Alaves vs Valencia",
+        "home": "Deportivo Alaves",
+        "away": "Valencia",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 2",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "01:15",
+        "matchup": "Al-Hilal vs Al Gharafa",
+        "home": "Al-Hilal",
+        "away": "Al Gharafa",
+        "competition": "Liga Champions Asia Elite",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "01:45",
+        "matchup": "West Ham United vs Fulham",
+        "home": "West Ham United",
+        "away": "Fulham",
+        "competition": "Piala Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Ipswich Town vs Arsenal",
+        "home": "Ipswich Town",
+        "away": "Arsenal",
+        "competition": "Piala Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Liverpool vs Tottenham Hotspur",
+        "home": "Liverpool",
+        "away": "Tottenham Hotspur",
+        "competition": "Piala Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Reading vs Brentford",
+        "home": "Reading",
+        "away": "Brentford",
+        "competition": "Piala Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Elche vs Real Madrid",
+        "home": "Elche",
+        "away": "Real Madrid",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "12:00",
+        "matchup": "China vs Korea Utara",
+        "home": "China",
+        "away": "Korea Utara",
+        "competition": "Asian Games 2026",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "12:00",
+        "matchup": "Uni Emirat Arab vs Iran",
+        "home": "Uni Emirat Arab",
+        "away": "Iran",
+        "competition": "Asian Games 2026",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "14:00",
+        "matchup": "Jepang vs Hong Kong",
+        "home": "Jepang",
+        "away": "Hong Kong",
+        "competition": "Asian Games 2026",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "14:00",
+        "matchup": "Thailand vs Kirgistan",
+        "home": "Thailand",
+        "away": "Kirgistan",
+        "competition": "Asian Games 2026",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Jeonbuk Hyundai Motors vs Kashiwa Reysol",
+        "home": "Jeonbuk Hyundai Motors",
+        "away": "Kashiwa Reysol",
+        "competition": "Liga Champions Asia Elite",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Seoul vs Persib Bandung",
+        "home": "Seoul",
+        "away": "Persib Bandung",
+        "competition": "Liga Champions Asia Two",
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:15",
+        "matchup": "Port FC vs Vissel Kobe",
+        "home": "Port FC",
+        "away": "Vissel Kobe",
+        "competition": "Liga Champions Asia Elite",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "23:45",
+        "matchup": "Ararat-Armenia vs Sparta Praha",
+        "home": "Ararat-Armenia",
+        "away": "Sparta Praha",
+        "competition": "Liga Europa",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "23:45",
+        "matchup": "Omonia vs Celta Vigo",
+        "home": "Omonia",
+        "away": "Celta Vigo",
+        "competition": "Liga Europa",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
         ]
       }
     ]
