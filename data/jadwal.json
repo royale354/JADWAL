@@ -1,105 +1,7 @@
 {
-  "updated": "2026-09-14T07:15:36Z",
+  "updated": "2026-09-15T06:50:15Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-09-14": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Galatasaray vs Kocaelispor",
-        "home": "Galatasaray",
-        "away": "Kocaelispor",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "00:30",
-        "matchup": "Aston Villa vs Manchester City",
-        "home": "Aston Villa",
-        "away": "Manchester City",
-        "competition": "Liga Inggris Wanita",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "01:00",
-        "matchup": "PSV Eindhoven vs Sparta Rotterdam",
-        "home": "PSV Eindhoven",
-        "away": "Sparta Rotterdam",
-        "competition": "Liga Belanda",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "Sassuolo vs Juventus",
-        "home": "Sassuolo",
-        "away": "Juventus",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "Brest vs PSG",
-        "home": "Brest",
-        "away": "PSG",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Real Sociedad vs Atletico Madrid",
-        "home": "Real Sociedad",
-        "away": "Atletico Madrid",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Como vs Parma",
-        "home": "Como",
-        "away": "Parma",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Torino vs AS Roma",
-        "home": "Torino",
-        "away": "AS Roma",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-09-15": [
       {
         "kickoff": "00:00",
@@ -332,6 +234,18 @@
         ]
       },
       {
+        "kickoff": "01:00",
+        "matchup": "Ajax vs Willem II",
+        "home": "Ajax",
+        "away": "Willem II",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "01:15",
         "matchup": "Al-Hilal vs Al Gharafa",
         "home": "Al-Hilal",
@@ -445,6 +359,18 @@
         "home": "Thailand",
         "away": "Kirgistan",
         "competition": "Asian Games 2026",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Borneo FC Samarinda vs Dewa United Banten",
+        "home": "Borneo FC Samarinda",
+        "away": "Dewa United Banten",
+        "competition": "BRI Super League",
         "tv": "Vidio",
         "tvFree": [],
         "tvPaid": [
@@ -1817,6 +1743,80 @@
         "home": "Servette",
         "away": "OL Lyonnes",
         "competition": "Liga Champions Wanita",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      }
+    ],
+    "2026-09-24": [
+      {
+        "kickoff": "02:00",
+        "matchup": "Barcelona vs Paris FC",
+        "home": "Barcelona",
+        "away": "Paris FC",
+        "competition": "Liga Champions Wanita",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "02:00",
+        "matchup": "Chelsea vs Austria Wien",
+        "home": "Chelsea",
+        "away": "Austria Wien",
+        "competition": "Liga Champions Wanita",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "20:00",
+        "matchup": "Namibia vs Kongo",
+        "home": "Namibia",
+        "away": "Kongo",
+        "competition": "Kualifikasi Piala Afrika 2027",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "23:00",
+        "matchup": "RD Kongo vs Guinea Khatulistiwa",
+        "home": "RD Kongo",
+        "away": "Guinea Khatulistiwa",
+        "competition": "Kualifikasi Piala Afrika 2027",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "23:00",
+        "matchup": "Mauritania vs Republik Afrika Tengah",
+        "home": "Mauritania",
+        "away": "Republik Afrika Tengah",
+        "competition": "Kualifikasi Piala Afrika 2027",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "23:00",
+        "matchup": "Libya vs Botswana",
+        "home": "Libya",
+        "away": "Botswana",
+        "competition": "Kualifikasi Piala Afrika 2027",
         "tv": "beIN Sports",
         "tvFree": [],
         "tvPaid": [
