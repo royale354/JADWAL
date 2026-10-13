@@ -1,57 +1,7 @@
 {
-  "updated": "2026-10-12T08:09:27Z",
+  "updated": "2026-10-13T08:35:10Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-10-12": [
-      {
-        "kickoff": "01:45",
-        "matchup": "Cagliari vs Juventus",
-        "home": "Cagliari",
-        "away": "Juventus",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:45",
-        "matchup": "Troyes vs Marseille",
-        "home": "Troyes",
-        "away": "Marseille",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:00",
-        "matchup": "Racing Santander vs Valencia",
-        "home": "Racing Santander",
-        "away": "Valencia",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Atalanta vs Venezia",
-        "home": "Atalanta",
-        "away": "Venezia",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-10-13": [
       {
         "kickoff": "01:15",
@@ -289,8 +239,10 @@
         "home": "Atletico Madrid",
         "away": "Manchester United",
         "competition": "Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
+        "tv": "beIN Sports 1 / SCTV",
+        "tvFree": [
+          "SCTV"
+        ],
         "tvPaid": [
           "beIN Sports 1"
         ]
@@ -393,12 +345,14 @@
       },
       {
         "kickoff": "19:15",
-        "matchup": "Persib Bandung vs Viettel",
+        "matchup": "Persib Bandung vs The Cong-Viettel",
         "home": "Persib Bandung",
-        "away": "Viettel",
+        "away": "The Cong-Viettel",
         "competition": "Liga Champions Asia Two",
-        "tv": "Vision+",
-        "tvFree": [],
+        "tv": "Vision+ / RCTI",
+        "tvFree": [
+          "RCTI"
+        ],
         "tvPaid": [
           "Vision+"
         ]
@@ -433,8 +387,10 @@
         "home": "LASK",
         "away": "Liverpool",
         "competition": "Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
+        "tv": "beIN Sports 1 / SCTV",
+        "tvFree": [
+          "SCTV"
+        ],
         "tvPaid": [
           "beIN Sports 1"
         ]
@@ -495,8 +451,10 @@
         "home": "AS Roma",
         "away": "Real Madrid",
         "competition": "Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
+        "tv": "beIN Sports 3 / SCTV",
+        "tvFree": [
+          "SCTV"
+        ],
         "tvPaid": [
           "beIN Sports 3"
         ]
@@ -591,8 +549,10 @@
         "home": "Red Bull Salzburg",
         "away": "AC Milan",
         "competition": "Liga Europa",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
+        "tv": "beIN Sports 3 / SCTV",
+        "tvFree": [
+          "SCTV"
+        ],
         "tvPaid": [
           "beIN Sports 3"
         ]
@@ -797,8 +757,10 @@
         "home": "Celta Vigo",
         "away": "Juventus",
         "competition": "Liga Europa",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
+        "tv": "beIN Sports 3 / SCTV",
+        "tvFree": [
+          "SCTV"
+        ],
         "tvPaid": [
           "beIN Sports 3"
         ]
@@ -1691,10 +1653,10 @@
         "home": "Trabzonspor",
         "away": "Besiktas",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       },
       {
@@ -1727,10 +1689,10 @@
         "home": "Getafe",
         "away": "Rayo Vallecano",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1771,6 +1733,30 @@
         ],
         "tvPaid": [
           "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "PSG vs Barcelona",
+        "home": "PSG",
+        "away": "Barcelona",
+        "competition": "UEFA Youth League",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
+        ]
+      },
+      {
+        "kickoff": "21:00",
+        "matchup": "Manchester City vs AEK Athens",
+        "home": "Manchester City",
+        "away": "AEK Athens",
+        "competition": "UEFA Youth League",
+        "tv": "beIN Sports",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports"
         ]
       },
       {
