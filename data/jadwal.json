@@ -1,99 +1,7 @@
 {
-  "updated": "2026-10-21T06:40:24Z",
+  "updated": "2026-10-22T06:43:00Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-10-21": [
-      {
-        "kickoff": "15:30",
-        "matchup": "Bali United vs Garudayaksa",
-        "home": "Bali United",
-        "away": "Garudayaksa",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Persija Jakarta vs Arema FC",
-        "home": "Persija Jakarta",
-        "away": "Arema FC",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Como vs Manchester United",
-        "home": "Como",
-        "away": "Manchester United",
-        "competition": "UEFA Youth League",
-        "tv": "MUTV",
-        "tvFree": [
-          "MUTV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Lille vs Galatasaray",
-        "home": "Lille",
-        "away": "Galatasaray",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Inter Milan vs Shakhtar Donetsk",
-        "home": "Inter Milan",
-        "away": "Shakhtar Donetsk",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:45",
-        "matchup": "Como vs Manchester United",
-        "home": "Como",
-        "away": "Manchester United",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 1 / SCTV",
-        "tvFree": [
-          "SCTV"
-        ],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:45",
-        "matchup": "Lille vs Galatasaray",
-        "home": "Lille",
-        "away": "Galatasaray",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      }
-    ],
     "2026-10-22": [
       {
         "kickoff": "01:00",
@@ -1775,10 +1683,10 @@
         "home": "Bayern Munich",
         "away": "Real Madrid",
         "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1787,10 +1695,10 @@
         "home": "Chelsea",
         "away": "AS Roma",
         "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1799,10 +1707,10 @@
         "home": "Servette",
         "away": "OH Leuven",
         "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       },
       {
@@ -1895,10 +1803,10 @@
         "home": "Arsenal",
         "away": "Benfica",
         "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1907,10 +1815,10 @@
         "home": "Lyonnes",
         "away": "Inter Milan",
         "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1923,6 +1831,72 @@
         "tvFree": [],
         "tvPaid": [
           "Apple TV"
+        ]
+      }
+    ],
+    "2026-10-30": [
+      {
+        "kickoff": "00:30",
+        "matchup": "Frosinone vs Lecce",
+        "home": "Frosinone",
+        "away": "Lecce",
+        "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:45",
+        "matchup": "Fiorentina vs Atalanta",
+        "home": "Fiorentina",
+        "away": "Atalanta",
+        "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:45",
+        "matchup": "Everton vs Newcastle United",
+        "home": "Everton",
+        "away": "Newcastle United",
+        "competition": "Carabao Cup (Piala Liga Inggris)",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Java United vs Bhayangkara Presisi Lampung",
+        "home": "Java United",
+        "away": "Bhayangkara Presisi Lampung",
+        "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Persebaya Surabaya vs Persijap Jepara",
+        "home": "Persebaya Surabaya",
+        "away": "Persijap Jepara",
+        "competition": "",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
         ]
       }
     ]
