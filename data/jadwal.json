@@ -1,202 +1,8 @@
 {
-  "updated": "2026-10-29T07:42:53Z",
+  "updated": "2026-10-30T07:48:41Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-10-29": [
-      {
-        "kickoff": "00:45",
-        "matchup": "Chelsea vs AS Roma",
-        "home": "Chelsea",
-        "away": "AS Roma",
-        "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "00:45",
-        "matchup": "Servette vs OH Leuven",
-        "home": "Servette",
-        "away": "OH Leuven",
-        "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "02:30",
-        "matchup": "Manchester City vs Brighton & Hove Albion",
-        "home": "Manchester City",
-        "away": "Brighton & Hove Albion",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Genoa vs Juventus",
-        "home": "Genoa",
-        "away": "Juventus",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Monza vs Napoli",
-        "home": "Monza",
-        "away": "Napoli",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Bournemouth vs Aston Villa",
-        "home": "Bournemouth",
-        "away": "Aston Villa",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Fulham vs Crystal Palace",
-        "home": "Fulham",
-        "away": "Crystal Palace",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Sunderland vs Brentford",
-        "home": "Sunderland",
-        "away": "Brentford",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Liverpool vs Chelsea",
-        "home": "Liverpool",
-        "away": "Chelsea",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Arsenal vs Benfica",
-        "home": "Arsenal",
-        "away": "Benfica",
-        "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Lyonnes vs Inter Milan",
-        "home": "Lyonnes",
-        "away": "Inter Milan",
-        "competition": "Liga Champions Wanita",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "06:30",
-        "matchup": "Inter Miami vs Cincinnati",
-        "home": "Inter Miami",
-        "away": "Cincinnati",
-        "competition": "MLS",
-        "tv": "Apple TV",
-        "tvFree": [],
-        "tvPaid": [
-          "Apple TV"
-        ]
-      }
-    ],
     "2026-10-30": [
-      {
-        "kickoff": "00:30",
-        "matchup": "Frosinone vs Lecce",
-        "home": "Frosinone",
-        "away": "Lecce",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:00",
-        "matchup": "Al-Nassr vs Al-Kholood",
-        "home": "Al-Nassr",
-        "away": "Al-Kholood",
-        "competition": "Saudi Pro League",
-        "tv": "SPOTV",
-        "tvFree": [],
-        "tvPaid": [
-          "SPOTV"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Fiorentina vs Atalanta",
-        "home": "Fiorentina",
-        "away": "Atalanta",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Everton vs Newcastle United",
-        "home": "Everton",
-        "away": "Newcastle United",
-        "competition": "Carabao Cup (Piala Liga Inggris)",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
       {
         "kickoff": "15:30",
         "matchup": "Java United vs Bhayangkara Presisi Lampung",
@@ -1371,10 +1177,10 @@
         "home": "AC Milan",
         "away": "Ferencvaros",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       },
       {
@@ -1383,10 +1189,10 @@
         "home": "Anderlecht",
         "away": "Red Bull Salzburg",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1395,10 +1201,10 @@
         "home": "Crystal Palace",
         "away": "Hoffenheim",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1407,10 +1213,10 @@
         "home": "Levski Sofia",
         "away": "Jagiellonia Bialystok",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1419,10 +1225,10 @@
         "home": "Lillestrom",
         "away": "Viktoria Plzen",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1431,10 +1237,10 @@
         "home": "NEC Nijmegen",
         "away": "Omonia Nicosia",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1443,10 +1249,10 @@
         "home": "Real Sociedad",
         "away": "Lyon",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1455,10 +1261,10 @@
         "home": "Sparta Praha",
         "away": "Bournemouth",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1467,10 +1273,10 @@
         "home": "AGF",
         "away": "Braga",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1479,10 +1285,10 @@
         "home": "Atalanta",
         "away": "Kairat Almaty",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1491,10 +1297,10 @@
         "home": "Midtjylland",
         "away": "Ajax",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1503,10 +1309,10 @@
         "home": "Crvena Zvezda",
         "away": "Inter Club d'Escaldes",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1515,10 +1321,10 @@
         "home": "KuPS",
         "away": "Gent",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1527,10 +1333,10 @@
         "home": "Lincoln Red Imps",
         "away": "Hajduk Split",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1539,10 +1345,10 @@
         "home": "Mjallby",
         "away": "Borac Banja Luka",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1551,10 +1357,10 @@
         "home": "Thun",
         "away": "Hearts",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1563,10 +1369,10 @@
         "home": "Trabzonspor",
         "away": "Freiburg",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1575,10 +1381,10 @@
         "home": "AZ Alkmaar",
         "away": "Juventus",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1587,10 +1393,10 @@
         "home": "Bayer Leverkusen",
         "away": "Marseille",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1599,10 +1405,10 @@
         "home": "Benfica",
         "away": "Lech Poznan",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1611,10 +1417,10 @@
         "home": "Celta Vigo",
         "away": "Union Saint-Gilloise",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1623,10 +1429,10 @@
         "home": "Celtic",
         "away": "Besiktas",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1635,10 +1441,10 @@
         "home": "Hapoel Beer Sheva",
         "away": "OFI Crete",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1647,10 +1453,10 @@
         "home": "Sturm Graz",
         "away": "NK Celje",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1659,10 +1465,10 @@
         "home": "Sunderland",
         "away": "Dinamo Zagreb",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1671,10 +1477,10 @@
         "home": "Torreense",
         "away": "Ararat Armenia",
         "competition": "Liga Europa",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1683,10 +1489,10 @@
         "home": "Copenhagen",
         "away": "Iberia 1999",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1695,10 +1501,10 @@
         "home": "Twente",
         "away": "Pafos",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1707,10 +1513,10 @@
         "home": "Getafe",
         "away": "Brighton & Hove Albion",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       },
       {
@@ -1719,10 +1525,10 @@
         "home": "Lugano",
         "away": "FK Kauno Zalgiris",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1731,10 +1537,10 @@
         "home": "AS Monaco",
         "away": "Nordsjaelland",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1743,10 +1549,10 @@
         "home": "Panathinaikos",
         "away": "CSKA Sofia",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1755,10 +1561,10 @@
         "home": "Riga FC",
         "away": "Jablonec",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1767,10 +1573,10 @@
         "home": "Sint-Truiden",
         "away": "Brann",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1779,10 +1585,10 @@
         "home": "Universitatea Craiova",
         "away": "Egnatia",
         "competition": "Liga Konferensi",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
