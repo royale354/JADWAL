@@ -1,110 +1,8 @@
 {
-  "updated": "2026-10-30T07:48:41Z",
+  "updated": "2026-10-31T07:37:02Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-10-30": [
-      {
-        "kickoff": "15:30",
-        "matchup": "Java United vs Bhayangkara Presisi Lampung",
-        "home": "Java United",
-        "away": "Bhayangkara Presisi Lampung",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "16:00",
-        "matchup": "Brisbane Roar vs Auckland FC",
-        "home": "Brisbane Roar",
-        "away": "Auckland FC",
-        "competition": "Liga Australia",
-        "tv": "SPOTV",
-        "tvFree": [],
-        "tvPaid": [
-          "SPOTV"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Persebaya Surabaya vs Persijap Jepara",
-        "home": "Persebaya Surabaya",
-        "away": "Persijap Jepara",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      }
-    ],
     "2026-10-31": [
-      {
-        "kickoff": "00:00",
-        "matchup": "Konyaspor vs Galatasaray",
-        "home": "Konyaspor",
-        "away": "Galatasaray",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "01:00",
-        "matchup": "Le Havre vs PSG",
-        "home": "Le Havre",
-        "away": "PSG",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "01:00",
-        "matchup": "Al-Shabab vs Al-Ahli",
-        "home": "Al-Shabab",
-        "away": "Al-Ahli",
-        "competition": "Saudi Pro League",
-        "tv": "SPOTV",
-        "tvFree": [],
-        "tvPaid": [
-          "SPOTV"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Villarreal vs Espanyol",
-        "home": "Villarreal",
-        "away": "Espanyol",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "03:05",
-        "matchup": "Lille vs Lens",
-        "home": "Lille",
-        "away": "Lens",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
       {
         "kickoff": "15:30",
         "matchup": "Arema FC vs Bali United",
@@ -278,6 +176,18 @@
         ]
       },
       {
+        "kickoff": "22:30",
+        "matchup": "Feyenoord vs Fortuna Sittard",
+        "home": "Feyenoord",
+        "away": "Fortuna Sittard",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
         "kickoff": "23:00",
         "matchup": "Fenerbahce vs Goztepe",
         "home": "Fenerbahce",
@@ -345,11 +255,37 @@
         "home": "Bayern Munich",
         "away": "Borussia Dortmund",
         "competition": "Liga Jerman",
-        "tv": "MAXStream TV",
+        "tv": "MAXStream TV / RCTI / GTV",
         "tvFree": [
-          "MAXStream TV"
+          "MAXStream TV",
+          "RCTI",
+          "GTV"
         ],
         "tvPaid": []
+      },
+      {
+        "kickoff": "00:45",
+        "matchup": "PSV Eindhoven vs Willem II",
+        "home": "PSV Eindhoven",
+        "away": "Willem II",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "00:45",
+        "matchup": "Heerenveen vs NEC Nijmegen",
+        "home": "Heerenveen",
+        "away": "NEC Nijmegen",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
       },
       {
         "kickoff": "02:45",
@@ -421,6 +357,18 @@
         "tvFree": [],
         "tvPaid": [
           "beIN Sports 2"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Ajax vs AZ Alkmaar",
+        "home": "Ajax",
+        "away": "AZ Alkmaar",
+        "competition": "Liga Belanda",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       },
       {
@@ -561,6 +509,18 @@
       },
       {
         "kickoff": "21:30",
+        "matchup": "Union Berlin vs FC Koln",
+        "home": "Union Berlin",
+        "away": "FC Koln",
+        "competition": "Liga Jerman",
+        "tv": "MAXStream TV",
+        "tvFree": [
+          "MAXStream TV"
+        ],
+        "tvPaid": []
+      },
+      {
+        "kickoff": "21:30",
         "matchup": "Charlton Athletic vs Chelsea",
         "home": "Charlton Athletic",
         "away": "Chelsea",
@@ -618,6 +578,18 @@
         "tvPaid": [
           "Vidio"
         ]
+      },
+      {
+        "kickoff": "23:30",
+        "matchup": "Eintracht Frankfurt vs Hamburger SV",
+        "home": "Eintracht Frankfurt",
+        "away": "Hamburger SV",
+        "competition": "Liga Jerman",
+        "tv": "MAXStream TV",
+        "tvFree": [
+          "MAXStream TV"
+        ],
+        "tvPaid": []
       }
     ],
     "2026-11-02": [
