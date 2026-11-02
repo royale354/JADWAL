@@ -1,229 +1,7 @@
 {
-  "updated": "2026-11-01T08:15:43Z",
+  "updated": "2026-11-02T08:28:48Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-11-01": [
-      {
-        "kickoff": "15:30",
-        "matchup": "Persib Bandung vs Isenmulang Kalteng",
-        "home": "Persib Bandung",
-        "away": "Isenmulang Kalteng",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "15:30",
-        "matchup": "PSIM Yogyakarta vs Borneo FC Samarinda",
-        "home": "PSIM Yogyakarta",
-        "away": "Borneo FC Samarinda",
-        "competition": "BRI Super League",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "18:30",
-        "matchup": "Como vs Venezia",
-        "home": "Como",
-        "away": "Venezia",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Arsenal vs Aston Villa",
-        "home": "Arsenal",
-        "away": "Aston Villa",
-        "competition": "Liga Inggris Wanita",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "London City Lionesses vs Manchester City",
-        "home": "London City Lionesses",
-        "away": "Manchester City",
-        "competition": "Liga Inggris Wanita",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "19:00",
-        "matchup": "Garudayaksa vs PSS Sleman",
-        "home": "Garudayaksa",
-        "away": "PSS Sleman",
-        "competition": "BRI Super League",
-        "tv": "Vidio / Indosiar",
-        "tvFree": [
-          "Indosiar"
-        ],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Getafe vs Sevilla",
-        "home": "Getafe",
-        "away": "Sevilla",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Trabzonspor vs Gaziantep",
-        "home": "Trabzonspor",
-        "away": "Gaziantep",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Strasbourg vs Auxerre",
-        "home": "Strasbourg",
-        "away": "Auxerre",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Frosinone vs Torino",
-        "home": "Frosinone",
-        "away": "Torino",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "21:00",
-        "matchup": "Lazio vs Cagliari",
-        "home": "Lazio",
-        "away": "Cagliari",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "21:30",
-        "matchup": "Union Berlin vs FC Koln",
-        "home": "Union Berlin",
-        "away": "FC Koln",
-        "competition": "Liga Jerman",
-        "tv": "MAXStream TV",
-        "tvFree": [
-          "MAXStream TV"
-        ],
-        "tvPaid": []
-      },
-      {
-        "kickoff": "21:30",
-        "matchup": "Charlton Athletic vs Chelsea",
-        "home": "Charlton Athletic",
-        "away": "Chelsea",
-        "competition": "Liga Inggris Wanita",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "22:15",
-        "matchup": "Racing Santander vs Real Madrid",
-        "home": "Racing Santander",
-        "away": "Real Madrid",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Kasimpasa vs Besiktas",
-        "home": "Kasimpasa",
-        "away": "Besiktas",
-        "competition": "Liga Turki",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "23:15",
-        "matchup": "Paris FC vs AS Monaco",
-        "home": "Paris FC",
-        "away": "AS Monaco",
-        "competition": "Liga Prancis",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Liverpool vs Arsenal",
-        "home": "Liverpool",
-        "away": "Arsenal",
-        "competition": "Liga Inggris",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "23:30",
-        "matchup": "Eintracht Frankfurt vs Hamburger SV",
-        "home": "Eintracht Frankfurt",
-        "away": "Hamburger SV",
-        "competition": "Liga Jerman",
-        "tv": "MAXStream TV",
-        "tvFree": [
-          "MAXStream TV"
-        ],
-        "tvPaid": []
-      }
-    ],
     "2026-11-02": [
       {
         "kickoff": "00:00",
@@ -1621,14 +1399,26 @@
       },
       {
         "kickoff": "19:00",
+        "matchup": "Liverpool vs Arsenal",
+        "home": "Liverpool",
+        "away": "Arsenal",
+        "competition": "Liga Inggris Wanita",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
+        "kickoff": "19:00",
         "matchup": "Ampem Darkoa vs AS FAR",
         "home": "Ampem Darkoa",
         "away": "AS FAR",
         "competition": "Liga Champions Afrika Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1637,10 +1427,10 @@
         "home": "Kawempe Muslim Ladies",
         "away": "USFAS Bamako",
         "competition": "Liga Champions Afrika Wanita",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1649,10 +1439,10 @@
         "home": "Elche",
         "away": "Real Betis",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1661,10 +1451,10 @@
         "home": "Corum",
         "away": "Fenerbahce",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1673,10 +1463,10 @@
         "home": "Mamelodi Sundowns",
         "away": "USM Alger",
         "competition": "Piala Super Afrika",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1764,15 +1554,27 @@
         ]
       },
       {
+        "kickoff": "21:30",
+        "matchup": "London City Lionesses vs Birmingham City",
+        "home": "London City Lionesses",
+        "away": "Birmingham City",
+        "competition": "Liga Inggris Wanita",
+        "tv": "beIN Sports Xtra",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports Xtra"
+        ]
+      },
+      {
         "kickoff": "22:15",
         "matchup": "Real Sociedad vs Rayo Vallecano",
         "home": "Real Sociedad",
         "away": "Rayo Vallecano",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1781,10 +1583,10 @@
         "home": "Alanyaspor",
         "away": "Trabzonspor",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1867,10 +1669,10 @@
         "home": "Celta Vigo",
         "away": "Levante",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1879,10 +1681,10 @@
         "home": "Villarreal",
         "away": "Getafe",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       },
       {
@@ -1891,10 +1693,10 @@
         "home": "Besiktas",
         "away": "Genclerbirligi",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports Xtra",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports Xtra"
         ]
       },
       {
@@ -1927,10 +1729,10 @@
         "home": "Atletico Madrid",
         "away": "Barcelona",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       }
     ]
