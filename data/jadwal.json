@@ -1,118 +1,8 @@
 {
-  "updated": "2026-11-23T09:53:58Z",
+  "updated": "2026-11-24T11:42:04Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-11-23": [
-      {
-        "kickoff": "20:45",
-        "matchup": "Neftchi Fargona vs Al-Hilal",
-        "home": "Neftchi Fargona",
-        "away": "Al-Hilal",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Al Ain vs Esteghlal",
-        "home": "Al Ain",
-        "away": "Esteghlal",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Al-Shamal vs Al-Ahli",
-        "home": "Al-Shamal",
-        "away": "Al-Ahli",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Tractor vs Al-Wasl",
-        "home": "Tractor",
-        "away": "Al-Wasl",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
     "2026-11-24": [
-      {
-        "kickoff": "01:15",
-        "matchup": "Al-Ittihad vs Pakhtakor Tashkent",
-        "home": "Al-Ittihad",
-        "away": "Pakhtakor Tashkent",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "01:15",
-        "matchup": "Al Quwa Al Jawiya vs Al-Gharafa",
-        "home": "Al Quwa Al Jawiya",
-        "away": "Al-Gharafa",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "02:45",
-        "matchup": "Monza vs Fiorentina",
-        "home": "Monza",
-        "away": "Fiorentina",
-        "competition": "Liga Italia",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Brentford vs Everton",
-        "home": "Brentford",
-        "away": "Everton",
-        "competition": "Liga Inggris",
-        "tv": "Vidio",
-        "tvFree": [],
-        "tvPaid": [
-          "Vidio"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Levante vs Elche",
-        "home": "Levante",
-        "away": "Elche",
-        "competition": "Liga Spanyol",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
       {
         "kickoff": "14:45",
         "matchup": "Newcastle Jets vs Kashiwa Reysol",
@@ -1762,10 +1652,10 @@
         "home": "Goztepe",
         "away": "Trabzonspor",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 2",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 2"
         ]
       }
     ],
@@ -1788,10 +1678,10 @@
         "home": "Besiktas",
         "away": "Galatasaray",
         "competition": "Liga Turki",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 3",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 3"
         ]
       },
       {
@@ -1812,10 +1702,10 @@
         "home": "Espanyol",
         "away": "Getafe",
         "competition": "Liga Spanyol",
-        "tv": "beIN Sports",
+        "tv": "beIN Sports 1",
         "tvFree": [],
         "tvPaid": [
-          "beIN Sports"
+          "beIN Sports 1"
         ]
       },
       {
@@ -1883,6 +1773,71 @@
         "matchup": "Johor Darul Ta'zim vs Daejoen Hana Citizen",
         "home": "Johor Darul Ta'zim",
         "away": "Daejoen Hana Citizen",
+        "competition": "Liga Champions Asia Elite",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      }
+    ],
+    "2026-12-02": [
+      {
+        "kickoff": "03:00",
+        "matchup": "Coventry City vs Ipswich Town",
+        "home": "Coventry City",
+        "away": "Ipswich Town",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Inter Milan vs Genoa",
+        "home": "Inter Milan",
+        "away": "Genoa",
+        "competition": "Coppa Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Jeonbuk Hyundai Motors vs Gamba Osaka",
+        "home": "Jeonbuk Hyundai Motors",
+        "away": "Gamba Osaka",
+        "competition": "Liga Champions Asia Elite",
+        "tv": "Vision+",
+        "tvFree": [],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "17:00",
+        "matchup": "Viettel vs Persib Bandung",
+        "home": "Viettel",
+        "away": "Persib Bandung",
+        "competition": "Liga Champions Asia Two",
+        "tv": "Vision+ / RCTI / GTV",
+        "tvFree": [
+          "RCTI",
+          "GTV"
+        ],
+        "tvPaid": [
+          "Vision+"
+        ]
+      },
+      {
+        "kickoff": "19:15",
+        "matchup": "Port FC vs Kashima Antlers",
+        "home": "Port FC",
+        "away": "Kashima Antlers",
         "competition": "Liga Champions Asia Elite",
         "tv": "Vision+",
         "tvFree": [],
