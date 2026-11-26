@@ -1,302 +1,7 @@
 {
-  "updated": "2026-11-25T10:35:00Z",
+  "updated": "2026-11-26T10:06:23Z",
   "source": "https://www.goal.com/id/berita/jadwal-tv-siaran-langsung-sepakbola-hari-ini/1qomojcjyge9n1nr2voxutdc1n",
   "schedules": {
-    "2026-11-24": [
-      {
-        "kickoff": "14:45",
-        "matchup": "Newcastle Jets vs Kashiwa Reysol",
-        "home": "Newcastle Jets",
-        "away": "Kashiwa Reysol",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Daejeon Hana Citizen vs Beijing Guoan",
-        "home": "Daejeon Hana Citizen",
-        "away": "Beijing Guoan",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Kyoto Sanga vs Pohang Steelers",
-        "home": "Kyoto Sanga",
-        "away": "Pohang Steelers",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:15",
-        "matchup": "Cong An Ha Noi vs Vissel Kobe",
-        "home": "Cong An Ha Noi",
-        "away": "Vissel Kobe",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:15",
-        "matchup": "Ratchaburi FC vs Johor Darul Ta'zim",
-        "home": "Ratchaburi FC",
-        "away": "Johor Darul Ta'zim",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:15",
-        "matchup": "Shanghai Port vs Buriram United",
-        "home": "Shanghai Port",
-        "away": "Buriram United",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Arsenal vs Borussia Dortmund",
-        "home": "Arsenal",
-        "away": "Borussia Dortmund",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "22:00",
-        "matchup": "Feyenoord vs Porto",
-        "home": "Feyenoord",
-        "away": "Porto",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "23:00",
-        "matchup": "Shabab Al-Ahli Dubai vs Al-Qadsiah",
-        "home": "Shabab Al-Ahli Dubai",
-        "away": "Al-Qadsiah",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      }
-    ],
-    "2026-11-25": [
-      {
-        "kickoff": "00:45",
-        "matchup": "Galatasaray vs Aston Villa",
-        "home": "Galatasaray",
-        "away": "Aston Villa",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "00:45",
-        "matchup": "Bodo/Glimt vs LASK",
-        "home": "Bodo/Glimt",
-        "away": "LASK",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "01:15",
-        "matchup": "Al-Nassr vs Al-Sadd",
-        "home": "Al-Nassr",
-        "away": "Al-Sadd",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Arsenal vs Borussia Dortmund",
-        "home": "Arsenal",
-        "away": "Borussia Dortmund",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 2",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 2"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Como vs AEK Athens",
-        "home": "Como",
-        "away": "AEK Athens",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Feyenoord vs Porto",
-        "home": "Feyenoord",
-        "away": "Porto",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Manchester City vs Napoli",
-        "home": "Manchester City",
-        "away": "Napoli",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 3",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 3"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "RB Leipzig vs Lens",
-        "home": "RB Leipzig",
-        "away": "Lens",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Real Madrid vs PSV Eindhoven",
-        "home": "Real Madrid",
-        "away": "PSV Eindhoven",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "03:00",
-        "matchup": "Slovan Bratislava vs Real Betis",
-        "home": "Slovan Bratislava",
-        "away": "Real Betis",
-        "competition": "Liga Champions",
-        "tv": "beIN Sports Xtra",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports Xtra"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Gamba Osaka vs Port FC",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "17:00",
-        "matchup": "Kashima Antlers vs Jeonbuk Hyundai Motors",
-        "home": "Kashima Antlers",
-        "away": "Jeonbuk Hyundai Motors",
-        "competition": "Liga Champions Asia Elite",
-        "tv": "Vision+",
-        "tvFree": [],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "19:15",
-        "matchup": "Persib Bandung vs FC Seoul",
-        "home": "Persib Bandung",
-        "away": "FC Seoul",
-        "competition": "Liga Champions Asia Two",
-        "tv": "Vision+ / RCTI / GTV",
-        "tvFree": [
-          "RCTI",
-          "GTV"
-        ],
-        "tvPaid": [
-          "Vision+"
-        ]
-      },
-      {
-        "kickoff": "20:00",
-        "matchup": "Sporting CP vs Manchester United",
-        "home": "Sporting CP",
-        "away": "Manchester United",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      },
-      {
-        "kickoff": "22:00",
-        "matchup": "PSG vs AS Roma",
-        "home": "PSG",
-        "away": "AS Roma",
-        "competition": "UEFA Youth League",
-        "tv": "beIN Sports 1",
-        "tvFree": [],
-        "tvPaid": [
-          "beIN Sports 1"
-        ]
-      }
-    ],
     "2026-11-26": [
       {
         "kickoff": "00:45",
@@ -1197,6 +902,18 @@
         ]
       },
       {
+        "kickoff": "00:30",
+        "matchup": "Al-Ahli vs Al-Taawoun",
+        "home": "Al-Ahli",
+        "away": "Al-Taawoun",
+        "competition": "Saudi Pro League",
+        "tv": "SPOTV",
+        "tvFree": [],
+        "tvPaid": [
+          "SPOTV"
+        ]
+      },
+      {
         "kickoff": "02:00",
         "matchup": "Berkane vs Colombe",
         "home": "Berkane",
@@ -1843,6 +1560,218 @@
         "tvFree": [],
         "tvPaid": [
           "Vision+"
+        ]
+      }
+    ],
+    "2026-12-03": [
+      {
+        "kickoff": "01:00",
+        "matchup": "Real Sociedad vs Real Madrid",
+        "home": "Real Sociedad",
+        "away": "Real Madrid",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Chelsea vs Crystal Palace",
+        "home": "Chelsea",
+        "away": "Crystal Palace",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Hull City vs Nottingham Forest",
+        "home": "Hull City",
+        "away": "Nottingham Forest",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Liverpool vs Sunderland",
+        "home": "Liverpool",
+        "away": "Sunderland",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "02:30",
+        "matchup": "Manchester City vs Leeds United",
+        "home": "Manchester City",
+        "away": "Leeds United",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Como vs Cremonese",
+        "home": "Como",
+        "away": "Cremonese",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:15",
+        "matchup": "Aston Villa vs Everton",
+        "home": "Aston Villa",
+        "away": "Everton",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:15",
+        "matchup": "Bournemouth vs Brighton & Hove Albion",
+        "home": "Bournemouth",
+        "away": "Brighton & Hove Albion",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:15",
+        "matchup": "Brentford vs Arsenal",
+        "home": "Brentford",
+        "away": "Arsenal",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:15",
+        "matchup": "Newcastle United vs Manchester United",
+        "home": "Newcastle United",
+        "away": "Manchester United",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:30",
+        "matchup": "Barcelona vs Atletico Madrid",
+        "home": "Barcelona",
+        "away": "Atletico Madrid",
+        "competition": "Liga Spanyol",
+        "tv": "beIN Sports 1",
+        "tvFree": [],
+        "tvPaid": [
+          "beIN Sports 1"
+        ]
+      }
+    ],
+    "2026-12-04": [
+      {
+        "kickoff": "03:00",
+        "matchup": "Tottenham Hotspur vs Fulham",
+        "home": "Tottenham Hotspur",
+        "away": "Fulham",
+        "competition": "Liga Inggris",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "03:00",
+        "matchup": "Juventus vs Sassuolo",
+        "home": "Juventus",
+        "away": "Sassuolo",
+        "competition": "Liga Italia",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Bali United vs PSM Makassar",
+        "home": "Bali United",
+        "away": "PSM Makassar",
+        "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "15:30",
+        "matchup": "Persik Kediri vs Isenmulang Kalteng",
+        "home": "Persik Kediri",
+        "away": "Isenmulang Kalteng",
+        "competition": "BRI Super League",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Bhayangkara Presisi Lampung vs Persija Jakarta",
+        "home": "Bhayangkara Presisi Lampung",
+        "away": "Persija Jakarta",
+        "competition": "BRI Super League",
+        "tv": "Vidio / Indosiar",
+        "tvFree": [
+          "Indosiar"
+        ],
+        "tvPaid": [
+          "Vidio"
+        ]
+      },
+      {
+        "kickoff": "19:00",
+        "matchup": "Dewa United vs Madura United",
+        "home": "Dewa United",
+        "away": "Madura United",
+        "competition": "BRI Super League",
+        "tv": "Vidio",
+        "tvFree": [],
+        "tvPaid": [
+          "Vidio"
         ]
       }
     ]
